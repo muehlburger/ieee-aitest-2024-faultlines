@@ -102,4 +102,4 @@ for i in tqdm(lines):
     results[i] = "yes" in answer.lower()
 
 out = pd.DataFrame(data={"line": lines, "anomaly": [results[i] for i in lines], "reason": [reason[i] for i in lines]})
-out.to_csv(RESULTS_DIR / f"results_from_{args.start}_to_{args.end}_{args.model}.csv", index=False)
+out.to_csv(RESULTS_DIR / f"results_from_{args.start}_to_{args.end}_{args.model.replace(':', '-')}.csv", index=False)
