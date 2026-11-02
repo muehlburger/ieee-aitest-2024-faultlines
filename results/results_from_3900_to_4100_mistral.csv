@@ -1,0 +1,810 @@
+line,anomaly,reason
+3900,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3901,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3902,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3903,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context and are consistent with each other. However, it's important to double-check that these values fall within the expected ranges for the specific system or process being measured."
+3904,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none_one, and volflow_l_min are all reasonable based on the information given. There is no obvious anomaly in these measurements."
+3905,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context. There are no obvious anomalies based on the provided data."
+3906,False,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none_one, and volflow_l_min are all within their respective ranges as stated in the problem. Additionally, there is no obvious inconsistency or anomaly in the data based on the context provided.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the given ranges and context before providing an answer to ensure accuracy."
+3907,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context and are consistent with each other. However, it's important to double-check that these values fall within the expected ranges for the specific system being monitored."
+3908,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3909,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of a three-phase AC motor system. There is no obvious inconsistency or anomaly in the data."
+3910,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information about the specific system or process being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be considered as a single data point in a larger dataset for further analysis."
+3911,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further analyzed in the context of the overall system behavior and trends."
+3912,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3913,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly based on the information provided."
+3914,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, and volflow_l_min all fall within their respective ranges. There is no obvious anomaly in these measurements based on the given information."
+3915,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly based on the information provided."
+3916,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3917,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, and temperature_degC_six are all within their respective ranges as stated in the problem description. Additionally, there is no obvious inconsistency or anomaly in the data."
+3918,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges and consistent with the context. There is no obvious anomaly in these measurements."
+3919,False,"Anomaly: No.
+
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There does not appear to be any significant deviations or inconsistencies among the variables that would indicate an anomaly. The measurements seem consistent with the context and reasonable for the given system.
+
+Anomaly-Rating: 0.
+
+The measurements do not contain any anomalies based on the provided information, and they are within the expected ranges for each variable in the context of the problem statement."
+3920,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further analyzed in conjunction with other data and trends to ensure normal operation."
+3921,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3922,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check the provided ranges before giving a definitive answer."
+3923,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3924,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3925,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly that can be identified based on the information provided."
+3926,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check the provided ranges before giving a definitive answer."
+3927,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, and volflow_l_min are all reasonable based on the information given. There is no obvious anomaly in these measurements."
+3928,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for their respective variables. There is no obvious inconsistency or anomaly in the data."
+3929,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of a cooling system. There is no obvious inconsistency or anomaly present in these measurements."
+3930,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3931,False,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the given ranges for each variable. However, it's important to note that without additional context or information about the specific system being measured and its expected behavior, it's impossible to definitively rule out all potential anomalies. The provided measurements do not show any obvious signs of extreme values or inconsistencies with the given context.
+
+Anomaly-Rating: 0.
+
+The measurements appear to be consistent with the given context and within reasonable ranges for each variable. However, it's always a good practice to double-check the data and consider any potential sources of error or uncertainty in the measurement process."
+3932,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3933,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges and consistent with the context. There is no obvious anomaly in these measurements."
+3934,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check the provided ranges before giving a definitive answer."
+3935,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, and no_unit_none are all within their respective ranges. Additionally, there is a consistent pattern in the changes of temperature_degC_one through temperature_degC_six over time."
+3936,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3937,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context. There is no obvious inconsistency or anomaly based on the information provided."
+3938,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly that can be identified based on the information provided."
+3939,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, and no_unit_none are all within their respective ranges. Additionally, there is a consistent pattern in the changes of temperature_degC_one through temperature_degC_six over time."
+3940,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3941,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity within the context of the overall system behavior."
+3942,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the reasonable range for the given context as they are all numerical values and fall within the provided ranges for each variable. There is no obvious inconsistency or anomaly in the data presented."
+3943,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, and volflow_l_min are all reasonable based on the information given. There is no obvious anomaly in these measurements."
+3944,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none, and volflow_l_min are all reasonable based on the information given. There is no obvious anomaly in these measurements."
+3945,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3946,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3947,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, and no_unit_none are all within their respective ranges. Additionally, there is a consistent pattern in the changes of temperature_degC_one through temperature_degC_six over time."
+3948,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the provided ranges are accurate for the specific context of the measurement data."
+3949,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3950,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3951,True,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The value of temperature_degC_three (9.15) is outside the given context range, as it should be between -10 and 10 degrees Celsius. Additionally, the value of temperature_degC_four (11.26) is also above the given context range. The other values seem to be within reasonable ranges based on the provided context."
+3952,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the provided ranges are accurate for the specific context of the measurement data."
+3953,True,"Anomaly: Yes
+Anomaly-Rating: 90
+Explanation:
+The anomaly is the value of temperature_degC_three which is nine point one six, while the other temperatures are consistently in the range of minus ten to eleven degrees Celsius. This deviation from the expected range could indicate a measurement error or an issue with the sensor responsible for measuring this parameter. However, without further context or information about the system and its normal operating conditions, it is difficult to determine the exact cause of this anomaly. The anomaly rating is set at 90 as this value seems significantly different from the other measurements."
+3954,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The provided measurements appear to be within the reasonable range and consistent with the given context. All values fall within the specified ranges for their respective variables, and there are no significant deviations or inconsistencies that would suggest an anomaly."
+3955,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively rule out all potential anomalies. These measurements should be further analyzed in the context of the overall system behavior and trends."
+3956,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3957,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively confirm that these measurements are completely anomaly-free. It's always a good practice to double-check the data sources and measurement methods to ensure their accuracy."
+3958,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3959,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger dataset or trend analysis."
+3960,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range for the given context as they are all within the provided ranges for each variable. There is no obvious inconsistency or anomaly in these measurements based on the information provided."
+3961,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3962,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further analyzed in the context of historical data and other relevant factors to ensure accurate interpretation."
+3963,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly based on the information provided."
+3964,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3965,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger data analysis effort."
+3966,False,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the reasonable range for the given context as they are all within the provided ranges for each variable. There does not seem to be any significant deviation or inconsistency in the values that would indicate an anomaly."
+3967,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly in the data."
+3968,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the provided ranges for each variable are accurate based on the context of the system being measured."
+3969,False,"Anomaly: No.
+
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There does not appear to be any significant deviations or inconsistencies among the variables that would indicate an anomaly. The temperature_degC_four value (eleven point three seven) is slightly higher than some of the other temperature values, but it still falls within the given range for the context. Overall, the measurements do not contain any obvious anomalies based on the provided information.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the given ranges and context before making a definitive conclusion about the absence of anomalies in the data."
+3970,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity within the context of the overall system behavior."
+3971,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly in the data."
+3972,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the values for temperature_degC, amperage_A, power_W, velocity_km_h, and volflow_l_min fall within their respective acceptable ranges before making a definitive conclusion."
+3973,False,"Anomaly: No.
+
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There does not appear to be any significant deviation or inconsistency that would indicate an anomaly. The values are consistent with the context and reasonable for the given measurements.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the ranges provided in the problem statement before making a definitive conclusion, as they may have been incorrectly stated or misunderstood. In this case, the values appear to be within the expected ranges based on the context."
+3974,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3975,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges and consistent with the context. There is no obvious anomaly in these measurements."
+3976,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context. There are no obvious anomalies based on the provided data. However, it's important to note that without additional context or information about the system being measured and the conditions under which these measurements were taken, it's impossible to definitively rule out all potential anomalies. The measurements appear consistent with the given context based on the available information."
+3977,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of a cooling system measurement. There is no obvious inconsistency or anomaly that can be identified based on the information provided."
+3978,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3979,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the values for temperature_degC, amperage_A, power_W, velocity_km_h, and volflow_l_min are indeed within their respective valid ranges before making a definitive conclusion."
+3980,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively confirm that these measurements are completely anomaly-free. It's always a good practice to double-check the data sources and measurement methods to ensure their accuracy."
+3981,False,"Anomaly: No.
+
+Explanation:
+The measurements appear to be within the given ranges and consistent with the context provided. The values for temperature_degC, amperage_A, power_W, velocity_km_h, no_unit_none_one, and volflow_l_min are all within their respective ranges as specified in the problem statement. Additionally, there is no obvious inconsistency or anomaly in the data based on the given context.
+
+Anomaly-Rating: 0.
+
+Note: It's important to double-check the given ranges and context before providing an answer to ensure accuracy."
+3982,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively determine if these values are anomalous or not. It's always a good idea to double-check the data against known ranges and expected behavior before making any conclusions."
+3983,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context. There are no obvious anomalies in the data provided."
+3984,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges for each variable in the context of the problem statement. There is no obvious inconsistency or anomaly in the data."
+3985,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges and consistent with the context. There is no obvious anomaly in these measurements."
+3986,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3987,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3988,False,"Anomaly: No.
+
+Explanation:
+The values provided in the test measurement fall within the given ranges for each variable (temperature_degC, temperature_degC_one, temperature_degC_two, temperature_degC_three, temperature_degC_four, temperature_degC_five, amperage_A, power_W, velocity_km_h, no_unit_none_one, and temperature_degC_six). There are no extreme or unexpected values that would indicate an anomaly. The values are consistent with the given context as they represent data from a cooling system."
+3989,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure accuracy and validity."
+3990,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further analyzed in the context of the overall data set and trends to ensure accuracy and consistency."
+3991,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information or context, it's impossible to definitively determine if these measurements are anomalous or not. It's always a good idea to double-check the measurement ranges and units to ensure accuracy."
+3992,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be considered as a single data point in a larger dataset for further analysis."
+3993,True,"Anomaly: Yes
+Anomaly-Rating: 80
+Explanation:
+The value of temperature_degC_three (9.39°C) is outside the given range of temperatures (-10°C to 12°C). This could indicate a measurement error or an issue with the sensor. The other values seem reasonable based on the context provided, but further investigation would be needed to determine the cause of this anomaly."
+3994,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional information about the specific system or process being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further evaluated in the context of historical data and other relevant information."
+3995,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check the provided ranges before giving a definitive answer."
+3996,False,"Anomaly: No.
+Anomaly-Rating: 0.
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. These measurements should be further investigated as part of a larger analysis to ensure their accuracy and validity."
+3997,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The given measurements are within the provided ranges and consistent with the context. There is no obvious anomaly in these measurements."
+3998,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range and consistent with the given context. However, it's important to double-check that the provided ranges are accurate for the specific context of the measurements."
+3999,False,"Anomaly: No
+Anomaly-Rating: 0
+Explanation:
+The values provided are within the given ranges and consistent with the context of the measurements. There is no obvious anomaly present in these data points."
+4000,False,"Anomaly: No.
+
+Anomaly-Rating: 0.
+
+Explanation: The measurements appear to be within the reasonable range of values for the given context. There are no obvious anomalies or inconsistencies in the data provided. However, it's important to note that without additional context or information about the specific system being measured, it's impossible to definitively rule out all potential anomalies. The measurements should be further analyzed and validated against other data sources or expert knowledge as needed."
+4001,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures. Additionally, the amperage_A value is negative but typically power or current measurements are positive. The power_W value is also negative which is not consistent with the given context as it should be a positive value for electrical power consumption."
+4002,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10 to 28 degrees Celsius. Additionally, the value for power_W is negative but should be positive based on the given context of a motor operating. The velocity_km_h and volflow_l_min values appear reasonable within the given context. However, the other anomalous values greatly impact the overall measurement and should be investigated further."
+4003,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which states that the temperatures should be between -10°C and 28.35°C. Additionally, the value for velocity_km_h remains constant at 130 km/h despite no indication of this being a constant value in the provided context. The other values appear to be within the given ranges but the extreme values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are clear anomalies."
+4004,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal operating range for a cooling system. Additionally, the value for velocity_km_h seems inconsistent with the other measurements as it is the only one in the ""reasonable"" range. The other values are either out of range or do not make sense in the given context."
+4005,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius are clearly outside the reasonable range of temperatures in the given context. Additionally, the value for amperage_A being a negative number is also inconsistent with the provided context as current cannot flow in a reverse direction."
+4006,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as the temperatures are supposed to be between -25°C and 60°C. Additionally, the amperage_A value of -89.95 A is also not reasonable in this context as it's negative and much larger than the previous values for amperage_A which were all around -100 A or less. The power_W value of -39,598.75 W is also an anomaly as it's much larger than the previous values for power_W which were all around -40,000 W."
+4007,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as they should be within the range of -10 to 60 degrees Celsius. Additionally, the value for power_W being minus thirty-nine thousand, five hundred and ninety-eight point seven five is also an anomaly as it's not a valid number in this context."
+4008,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is an anomaly as the given context does not indicate any measurements above one hundred degrees Celsius. Additionally, the amperage_A value of -89.95 A is also an anomaly as it is outside the reasonable range for electrical current in this context. The power_W value of -39,598.76 W is also an anomaly as it is negative and does not fit with the given context where all power values are positive."
+4009,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.5°C. Additionally, the value for velocity_km_h remains constant at 130 km/h despite no indication of wind conditions being consistent across all measurements. The value for temperature_degC_six is also outside the given context range. These anomalous values suggest that there may be errors or inconsistencies in the data collection process."
+4010,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which is typically in the range of -10 to 30 degrees Celsius. Additionally, the value for power_W is negative but usually it should be positive when considering electrical power consumption. The other values seem reasonable within their respective ranges."
+4011,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five being ninety-nine degrees Celsius is an anomaly as the given context does not suggest any measurement above one hundred degrees Celsius. Additionally, the temperature\_degC\_six value of twenty-five degrees Celsius is also an anomaly as it is significantly lower than the other temperatures which are all above zero degrees Celsius. The other values seem to be within reasonable ranges based on the context provided."
+4012,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which is typically in the range of -10 to 25 degrees Celsius. Additionally, the value for velocity_km_h remains constant at 130 km/h despite the varying temperatures, which is unusual. The amperage_A and power_W values are also unusually high. Overall, these measurements contain multiple anomalies that are not consistent with the given context."
+4013,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, the power_W value being minus thirty-nine thousand, five hundred and ninety-eight point eight is also an anomaly as it's not a realistic value for power consumption."
+4014,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 30 degrees Celsius."
+4015,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which is typically in the range of -10 to 30 degrees Celsius. Additionally, the amperage_A value is negative, but it should be positive for a motor or pump system. The power_W value is also negative, which contradicts the fact that it represents power consumption. These anomalous values suggest an issue with the data collection or measurement equipment."
+4016,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, having a velocity_km_h of one hundred and thirty with no_unit_none_one being one is also inconsistent with the given context as it implies a flow rate which would not make sense in this context."
+4017,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given range of temperatures. Additionally, the amperage_A value of -89.96 A is also outside the reasonable range for this context."
+4018,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal operating range for a cooling system. These values are not consistent with the given context."
+4019,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius each is an anomaly as the given context does not mention any measurements above one hundred degrees Celsius. Additionally, the amperage_A value of -89.96 A is also an anomaly as it is negative and significantly larger than the previous recorded values. The power_W value of -39,598.84 W is also an anomaly as it is negative and much larger in magnitude than the previous recorded values. These anomalous values are not consistent with the given context."
+4020,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 35 degrees Celsius."
+4021,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 50 degrees Celsius."
+4022,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which is typically in the range of -10 to 25 degrees Celsius. Additionally, the value for power_W is negative but usually it should be positive in this context. The other values seem reasonable based on the context provided."
+4023,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal range of -10 to 28.3 degrees Celsius. Additionally, the value for velocity_km_h remains constant at 130 km/h despite the context suggesting that this value may vary. The value for volflow_l_min is also unusually high at 12.5 L/min. These anomalous values are not consistent with the given context and should be investigated further."
+4024,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 50 degrees Celsius."
+4025,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is far beyond the reasonable range for this context. Additionally, the value for amperage_A being a negative number with three decimal places is also an anomaly. The other values appear to be within the given ranges, but the extreme values for temperature_degC_three, temperature_degC_four, and temperature_degC_five make this measurement highly suspicious and likely an error or anomaly."
+4026,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which states that the temperatures should be between -10°C and 25°C. Additionally, the value for velocity_km_h remains constant at 130 km/h despite the context suggesting varying velocities. These anomalies indicate that there is likely an issue with the data collection or measurement process."
+4027,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal operating range of -10°C to 28.36°C. Additionally, the value for power_W is negative but should be positive in this context. These anomalies may indicate equipment malfunction or incorrect data input."
+4028,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range provided in the context. Additionally, the power_W value being minus thirty-nine thousand, five hundred and ninety-eight point nine is also an anomaly as it's not a realistic value for power consumption."
+4029,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures in the given context. Additionally, the amperage_A value being a negative number with more than one decimal place also raises concerns."
+4030,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in this context. Additionally, the power consumption value (power_W) is negative which does not make physical sense as it should be a positive value for electrical power consumption."
+4031,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 35 degrees Celsius."
+4032,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, having a no_unit_none_one value of one does not make logical sense in this context as it was previously stated that no_unit_none_one represents the number of units in the system."
+4033,True,"Anomaly: Yes
+ Anomaly-Rating: 100
+ Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 35 degrees Celsius."
+4034,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures be the same value is inconsistent with the provided context."
+4035,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures. Additionally, the context provided does not mention any conditions where such high temperatures would be expected. Therefore, these measurements are considered anomalous."
+4036,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is not reasonable or consistent with the given context. These temperatures are significantly higher than what would be expected in the given context."
+4037,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is an anomaly as the given context does not mention any measurements above one hundred degrees Celsius. Additionally, the value for velocity_km_h being reported as one kilometer per hour with no_unit_none_one being reported as one is also inconsistent with the provided context where velocity_km_h is always reported in units of 100 km/h and no_unit_none_one is always reported as a multiple of three thousand."
+4038,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which is typically in the range of -10 to 30 degrees Celsius. Additionally, the value for amperage_A is negative but the unit is not specified as current flowing in one direction or the other. The power_W value is also negative and extremely large, suggesting an unusually high power consumption. These values are not consistent with the given context."
+4039,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures at the same value indicates an error or anomaly in the data."
+4040,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 50 degrees Celsius."
+4041,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context. Additionally, the power_W value being a negative number with six digits after the decimal point is also an anomaly."
+4042,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures. Additionally, the power_W value being minus thirty-nine thousand, five hundred and ninety-nine is also an anomaly as it is not a realistic value for electrical power consumption."
+4043,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given range of -40 to 60 degrees Celsius."
+4044,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures in the given context. Additionally, the temperature_degC_six value of twenty-five degrees Celsius is also not consistent with the other temperatures provided, which are all below zero degrees Celsius."
+4045,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is an anomaly as they are far beyond the given range. The context does not mention any extreme temperatures or conditions that would justify such high values. Additionally, the amperage_A value of -89.98 is also an anomaly as it is significantly different from the other amperage values provided in the context."
+4046,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, the value for power_W being minus thirty-nine thousand, five hundred and ninety-nine point zero three is also an anomaly as it is not a realistic value for power consumption."
+4047,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the power_W value being negative but much larger than previous measurements suggests an anomaly as well."
+4048,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range of temperatures in the given context. Additionally, the amperage_A value being a decimal number (-0.999) is also an anomaly as it's not a whole number like the other measurements provided."
+4049,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having three variables with the same value indicates an error or inconsistency in the data."
+4050,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are significantly higher than the given context which is typically in the range of -10 to 25 degrees Celsius. Additionally, the value of volflow\_l\_min is much lower than the typical values provided in the context which is usually around 7-8 liters per minute. The other values seem reasonable based on the context given."
+4051,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of 99 degrees Celsius for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which mentions temperatures ranging from -10 to 25 degrees Celsius. This is a clear anomaly."
+4052,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius are clearly outside the reasonable range of temperatures in the given context. Additionally, the amperage_A value is negative which is not physically meaningful in this context."
+4053,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the value for volflow_l_min being twelve point five is also not consistent with the given context as it is much higher than the previous recorded values."
+4054,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.4°C. Additionally, the value for velocity_km_h remains constant at 130 km/h despite the context suggesting varying velocities. The no_unit_none_one value of one is also inconsistent with the context which suggests values of two. The amperage_A and power_W values are also unusually high, further indicating an anomaly."
+4055,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is not reasonable or consistent with the given context. These temperatures are significantly higher than what would be expected in the given context."
+4056,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures in the given context. Additionally, the amperage_A value is negative but typically current flows in a positive direction. The power_W value is also negative which is not possible as it represents energy transfer. These anomalies indicate significant issues with the data and require further investigation."
+4057,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context. Additionally, the amperage_A value being minus ninety is also an anomaly as it is not a physically possible value for electrical current."
+4058,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context."
+4059,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context."
+4060,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the reasonable range of temperatures in the given context."
+4061,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.36°C. These values are not consistent with the provided context."
+4062,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.36°C. These anomalous values suggest an error or inconsistency in the data."
+4063,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures. Additionally, the amperage_A and power_W values are also significantly larger than what was previously observed in the measurements. These anomalous values do not seem to be consistent with the given context."
+4064,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 35 degrees Celsius."
+4065,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range of temperatures in the given context. Additionally, having all three of these values be the same is inconsistent with the provided context."
+4066,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are far outside the reasonable range of temperatures for the given context. In addition, the value for velocity_km_h being reported as ""one"" with no_unit_none_one being reported as ""1"" is also an anomaly as it does not match the previous data where both values were reported in thousands."
+4067,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, the power_W value being negative but having a decimal component is also an anomaly as power cannot be negative and should not have a decimal component in this context."
+4068,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -40 to 50 degrees Celsius."
+4069,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, the power consumption value being a negative number with five significant digits is also an anomaly."
+4070,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -10 to 50 degrees Celsius."
+4071,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the context does not provide any information suggesting that such extreme temperatures could occur. Therefore, these measurements are considered anomalous."
+4072,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10 to 25 degrees Celsius. Additionally, the value for no_unit_none_one is different from the usual value of 2 in this dataset. These anomalous values suggest that there might be an issue with the sensor or data collection process."
+4073,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.3°C. These values are not consistent with the provided context and should be investigated further as they may indicate an error or anomaly in the measurement data."
+4074,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given range of -40 to 60 degrees Celsius. Additionally, the value for volflow_l_min being twelve point five is also an anomaly as it is not a multiple of 0.1 or 0.5 as suggested in the data format."
+4075,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range provided in the context. Additionally, the temperature_degC_six value of twenty-five degrees Celsius is also not consistent with the given context as it is significantly lower than the other temperatures recorded."
+4076,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having a single value of ""one"" for no_unit_none_one is also an anomaly as it should be two according to the provided context."
+4077,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given range of temperatures. Additionally, the power_W value being a negative number with three decimal places is also an anomaly."
+4078,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the reasonable range provided in the context. Additionally, the value of velocity_km_h being one hundred and thirty with no_unit_none_one being one is also inconsistent with the given context as it suggests a unit change which was not indicated in the problem statement. The temperature_degC_six value of twenty-five is also outside the reasonable range provided in the context."
+4079,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 25°C. Additionally, the value for volflow_l_min is lower than the minimum expected flow rate of 2.5 L/min. The other values appear to be within reasonable ranges based on the provided context."
+4080,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the given context as they should be within the range of -10 to 50 degrees Celsius. Additionally, the value for temperature_degC_six being twenty-five degrees Celsius is also not consistent with the given context as it is much higher than the expected temperature range. The other values seem reasonable based on the context provided."
+4081,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -40 to 60 degrees Celsius."
+4082,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as the temperatures are supposed to be between -40 and 60 degrees Celsius. Additionally, the value of volflow_l_min at twelve point five is also not within the given range as it should be between zero and twenty liters per minute."
+4083,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures be the same value is inconsistent with the given context."
+4084,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures be the same value is also inconsistent with the given context."
+4085,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine are clearly outside the reasonable range provided in the context. Additionally, having three variables with the same anomalous value suggests a potential data entry error or measurement issue."
+4086,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal operating range of -10 to 28 degrees Celsius. Additionally, the value for velocity_km_h is consistent with normal operation, but the no_unit_none_one value being 1 instead of 2 is an inconsistency with the given context. The amperage_A and power_W values are also unusually high. Overall, these anomalous measurements suggest a malfunction or error in the system."
+4087,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures in the given context. Additionally, having all three temperatures being the same value is also inconsistent with the given context."
+4088,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is an anomaly as the given context does not suggest temperatures this high. Additionally, the value for no_unit_none_one being one is also inconsistent with the given context where it is typically two."
+4089,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The temperature values of 99 degrees Celsius for temperature_degC_three, four, and five are significantly higher than the given context which states that the temperatures range from -10 to 50 degrees Celsius. Additionally, the temperature_degC_six value of 25 degrees Celsius is also outside the given context's temperature range. The amperage_A value of -90.03 A is also not consistent with the given context as it does not specify any negative values for amperage. Overall, these measurements contain multiple anomalies and are not consistent with the provided context."
+4090,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is an anomaly as they are far beyond the given context of temperatures ranging from -40 to 60 degrees Celsius."
+4091,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, having all three temperatures be the same value is not consistent with the given context."
+4092,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10 to 28 degrees Celsius. Additionally, the value for volflow_l_min is lower than the minimum expected flow rate of 7.5 liters per minute. The other values appear to be within reasonable ranges based on the provided context."
+4093,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the value for velocity_km_h being reported as one with no unit specified is also an anomaly."
+4094,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the normal range of -10 to 28.3 degrees Celsius. These anomalous values suggest that there may be an issue with the sensor or measurement equipment used in this test. Additionally, the value for volflow_l_min is also much higher than the normal range of 0 to 8.5 liters per minute. These anomalies warrant further investigation and possible recalibration or replacement of the measuring equipment."
+4095,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as the temperatures are supposed to be between -40°C and 60°C. This anomaly rating is based on the clear violation of the given context."
+4096,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine is clearly outside the reasonable range of temperatures. Additionally, the value for velocity_km_h being one hundred and thirty when no_unit_none_one is set to one is also inconsistent with the given context as it implies a unit conversion error."
+4097,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine each is clearly outside the given context as they should be within the range of -10 to 50 degrees Celsius. Additionally, the temperature_degC_six value of twenty-five degrees Celsius is also not consistent with the given context as it is much higher than the expected temperature range. The other values seem reasonable based on the context provided."
+4098,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five being ninety-nine degrees Celsius is not reasonable or consistent with the given context. Additionally, having a temperature_degC_six of twenty-five degrees Celsius while all other temperatures are above one hundred degrees Celsius is also inconsistent with the context provided."
+4099,True,"Anomaly: Yes
+Anomaly-Rating: 100
+Explanation:
+The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are significantly higher than the given context which ranges from -10°C to 28.3°C. Additionally, the value for velocity_km_h remains constant at 130 km/h despite the context suggesting varying velocities. The value for volflow_l_min is also much higher than the given context of 0-7.6 l/min. The value for temperature_degC_six is also outside the given context, as it is 25°C instead of the expected range of -10°C to 28.3°C. Overall, these anomalous values are not consistent with the provided context and indicate potential measurement errors or issues with the data source."

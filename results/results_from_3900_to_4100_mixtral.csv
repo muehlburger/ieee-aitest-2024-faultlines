@@ -1,0 +1,611 @@
+line,anomaly,reason
+3900,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3901,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3902,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3903,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3904,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3905,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_four value is significantly higher than the other temperature values. This could indicate an anomaly in the measurement. Additionally, the amperage\_A and power\_W values are very close to the lower limit of their range, which might suggest an issue with the measurement equipment or setup."
+3906,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3907,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3908,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3909,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3910,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3911,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3912,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3913,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3914,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3915,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3916,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3917,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3918,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values fall within their expected ranges and are consistent with the given context. There are no anomalies detected in this measurement."
+3919,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3920,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3921,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3922,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3923,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3924,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: All values are within the expected ranges and consistent with the given context. The only value that is close to an anomaly is temperature\_degC\_three, which is 9°C, but it's still within a reasonable range considering the other temperatures are around -10°C."
+3925,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3926,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3927,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3928,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3929,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3930,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3931,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3932,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is significantly lower than the other temperature values. This could indicate an issue with the sensor or data transmission, making it an anomaly in this dataset."
+3933,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3934,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3935,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3936,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3937,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3938,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3939,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3940,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3941,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3942,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3943,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3944,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3945,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: All values are within the expected ranges and consistent with the given context. The only value that is close to an anomaly is temperature\_degC\_three, but it's still within a reasonable range (9.12°C)."
+3946,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3947,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3948,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3949,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3950,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3951,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature\_degC\_three value (9.15°C) is significantly higher than the other temperature values, which are all around -10°C. This could indicate an anomaly in the measurement. Additionally, the power\_W value (-39,598.34 W) is unusually high compared to previous measurements, suggesting another potential anomaly."
+3952,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3953,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is significantly higher than the other temperatures in this measurement, which indicates an anomaly. Additionally, the amperage\_A and power\_W values are also unusually high compared to previous measurements, suggesting a potential issue with the data collection process or equipment malfunction."
+3954,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3955,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3956,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3957,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3958,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3959,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is 9.2°C, which is significantly higher than the other temperature values and may indicate an anomaly in the measurement."
+3960,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values are within their expected ranges and there are no inconsistencies in the data."
+3961,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3962,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3963,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3964,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3965,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3966,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3967,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3968,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values fall within their expected ranges and are consistent with the given context."
+3969,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_four value (11.37) is significantly higher than the other temperature values, which are all below -5 degrees Celsius. This inconsistency suggests an anomaly in the data."
+3970,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3971,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3972,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_four value is significantly higher than the other temperature values. This indicates an anomaly in the measurement, as it does not fit with the given context and is outside a reasonable range for this variable."
+3973,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3974,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3975,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3976,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is significantly lower than the other temperature values. This could indicate an issue with the sensor or data collection process. Additionally, the amperage\_A value is unusually high compared to previous measurements, which may also suggest an anomaly in the data."
+3977,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3978,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3979,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is significantly higher than the other temperature values in this measurement, which suggests an anomaly. Additionally, the power\_W value is very close to the previous measurement's power\_W value, but the time difference between them is large, making it unlikely that they are consistent with each other."
+3980,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3981,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3982,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3983,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3984,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values fall within their expected ranges and are consistent with the given context."
+3985,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3986,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3987,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3988,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3989,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3990,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values are within their expected ranges and there are no inconsistencies in the data."
+3991,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_four value is significantly higher than the other temperature values. This could indicate an anomaly in the measurement."
+3992,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3993,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The value for temperature\_degC\_six is significantly lower than the previous measurements. This could indicate an issue with the sensor or data transmission, making it an anomaly in this dataset."
+3994,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3995,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3996,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All the values fall within their expected ranges and are consistent with the given context."
+3997,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+3998,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value (9.42) is outside the typical range for this measurement, as it's significantly higher than other temperature values in the dataset. This indicates a potential anomaly that requires further investigation."
+3999,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected ranges and consistent with the given context."
+4000,True,"- Anomaly: Yes
+- Anomaly-Rating: 80
+- Explanation: The temperature\_degC\_three value is significantly lower than the other temperature values. This could indicate an issue with the sensor or data transmission for this specific measurement."
+4001,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are all below 30°C. This is likely a data entry error or sensor malfunction."
+4002,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. This is unlikely in a real-world scenario as such high temperatures would cause issues with the system's operation."
+4003,True,"- Anomaly: Yes
+- Anomaly-Rating: 95
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context of a cryogenic system. This is highly unlikely and considered an anomaly."
+4004,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should be around -10°C. This is a clear anomaly in the data."
+4005,True,"- Anomaly: Yes
+- Anomaly-Rating: 95
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. This is unlikely in the given context and inconsistent with the other measurements."
+4006,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should not exceed 45°C. This indicates a significant anomaly in the data."
+4007,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly."
+4008,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements in the dataset, which suggests an anomaly. Additionally, the value of `no_unit_none_one` is 1, while all other instances have a value of 2, further indicating an anomaly."
+4009,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are around -10°C. This is not a reasonable range in this context and indicates an anomaly."
+4010,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should be around -10°C. This indicates a malfunction or error in the measurement process, making it an anomaly with a high rating of 90."
+4011,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are around -10°C. This is likely a measurement error or an anomaly in the data."
+4012,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. This is unlikely in a real-world scenario as such high temperatures would trigger safety mechanisms and cause the system to shut down or reduce power."
+4013,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are extremely high (99 degrees Celsius) compared to the other temperature measurements in the dataset. This is not a reasonable range for this context, as it exceeds the boiling point of water. Additionally, the amperage value is negative, which is inconsistent with the given context and unlikely to be accurate."
+4014,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as the amperage value being negative. These measurements indicate an anomaly in the data."
+4015,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. Additionally, the amperage value is unusually low (-89.95 A), while power_W is extremely high (-39,598.81 W). These inconsistencies suggest a significant measurement error or malfunction in the system."
+4016,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are at the maximum value of 99 degrees Celsius, which is unlikely and indicates an anomaly. Additionally, the volumetric flow has increased significantly to 12.5 liters per minute, which is not consistent with the other measurements provided in the context."
+4017,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should be in the range of -40 to 125°C. This indicates a possible malfunction or error in the measurement process."
+4018,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine) compared to the other temperature measurements, which indicates an anomaly in these values.
+
+Confidence: 90%"
+4019,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. This is unlikely to occur under normal conditions and should be investigated further."
+4020,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. Additionally, the amperage value is negative, which is not physically possible in this context."
+4021,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurement data."
+4022,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context of a freezer environment. This is highly unlikely and considered an anomaly."
+4023,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine degrees Celsius) compared to the other temperature measurements, which suggests an anomaly in these values.
+
+Confidence: 90%"
+4024,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should be in the range of -40 to 125°C. This indicates an anomaly in the measurements."
+4025,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are reported as 99 degrees Celsius, which is significantly higher than the expected range of -40 to 125 degrees Celsius. This indicates a malfunction or error in the temperature measurement system. Additionally, the amperage value (-89.96 A) is outside the typical range for this type of equipment (typically between 0 and several hundred amperes). These anomalies suggest that the data point is not reliable and should be discarded or investigated further."
+4026,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are around -10°C. This is not a reasonable range in this context and indicates an anomaly."
+4027,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine degrees Celsius) compared to the other temperature measurements, which are all below zero. This is likely an error or anomaly in the data."
+4028,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurement data."
+4029,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are extremely high (99°C) compared to the other temperature measurements in the dataset. This is not a reasonable range for these variables considering their typical units of measurement (degrees Celsius). Additionally, such extreme values would likely cause issues or damage to the system being monitored, which is unlikely to have occurred during normal operation."
+4030,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are all below 0°C. This is not a reasonable range in this context and indicates an anomaly."
+4031,True,"- Anomaly: Yes
+- Anomaly-Rating: 95
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is likely an error or anomaly in the measurement data."
+4032,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are far beyond the expected range (-40 to 150°C) and should be considered as anomalies."
+4033,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should be in the range of -40 to +125°C. This indicates a possible issue with the sensor readings or data transmission."
+4034,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other measurements, which indicates an anomaly in this test measurement."
+4035,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly."
+4036,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four` and `temperature_degC_five` are extremely high (99) compared to the other temperature values in the dataset, which suggests an anomaly. Additionally, the amperage value is unusually low (-89.98), while power is extremely high (-39598.96). These inconsistencies support the presence of an anomaly."
+4037,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are around -10°C. This is not a reasonable range in this context and indicates an anomaly."
+4038,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are at the maximum limit of 99°C, which is unlikely and indicates an anomaly in the measurement."
+4039,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is not a reasonable range in this context and indicates an anomaly."
+4040,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This suggests an anomaly in the data."
+4041,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99) compared to the other temperature values in the dataset, which suggests an anomaly. Additionally, this is far outside of a reasonable range for temperature measurements."
+4042,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values are far beyond the expected range for this context (ninety-nine degrees Celsius is not possible in this scenario). This indicates a severe anomaly."
+4043,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurements."
+4044,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99 degrees Celsius) compared to the other temperature measurements, which are all below zero. This is likely a data entry error or sensor malfunction."
+4045,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should not exceed 45°C. This indicates a malfunction or error in the measurement process."
+4046,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. Additionally, the amperage value is at its maximum possible value (-89.99 A), suggesting that this measurement contains errors or outliers."
+4047,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurement data."
+4048,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other measurements, which indicates an anomaly in these values."
+4049,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they exceed the boiling point of water. This is considered a severe anomaly."
+4050,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine) compared to the other temperature measurements, which are all below zero. This is likely an error or anomaly in the data."
+4051,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four and temperature\_degC\_five are extremely high (99°C) compared to the other measurements. This is not a reasonable range for these variables in this context."
+4052,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as the amperage value being very close to -90. These measurements indicate an anomaly in the data."
+4053,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should not exceed 45°C. This indicates a significant anomaly in the data."
+4054,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine) compared to the other measurements, which indicates an anomaly in these values."
+4055,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they should not exceed 45°C. This indicates a malfunction or error in the measurement process."
+4056,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine degrees Celsius) compared to the other temperature measurements in the dataset. This is unlikely in a real-world scenario, as these temperatures would typically be much lower. Additionally, this measurement's power value is also very low, which is inconsistent with the high temperature values."
+4057,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is likely a measurement error or an anomaly in the data."
+4058,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is likely a measurement error or an anomaly in the data."
+4059,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine degrees Celsius) compared to the other temperature measurements, which suggests an anomaly in these values.
+
+Confidence: 90%"
+4060,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine) compared to the other temperature measurements, which indicates an anomaly in these values.
+
+Confidence: 90%"
+4061,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four` and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements in this dataset, which range from -10°C to 12.02°C. This is likely a measurement error or an anomaly."
+4062,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are far outside the expected range (-50 to 50 degrees Celsius) and should be considered anomalous. Additionally, the volumetric flow value (volflow\_l\_min) is also significantly higher than expected, which further supports the presence of an anomaly."
+4063,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values are far beyond the expected range for this context (up to ~30°C). It seems like there was an error in data acquisition or transmission, leading to incorrectly high temperature readings."
+4064,True,"- Anomaly: yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are all below -5°C. This is likely a measurement error or an anomaly in the data."
+4065,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all sensors are at the maximum limit of 99 degrees Celsius, which is unlikely and inconsistent with the given context. Additionally, amperage and power are negative, indicating an error or anomaly in these measurements."
+4066,True,"- Anomaly: yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are reported as 99 degrees Celsius, which is significantly higher than the typical operating range for these types of sensors in this context. This indicates a measurement anomaly."
+4067,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are extremely high (99°C) compared to the other temperature measurements provided in the context. This is not a reasonable range for these values and indicates an anomaly in the data."
+4068,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. Additionally, the amperage value is negative, which is not physically possible in this context."
+4069,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all sensors are at their maximum possible value of 99 degrees Celsius, which is unlikely to happen simultaneously. This indicates a malfunction or error in the measurement system."
+4070,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are all below 0°C. This is not a reasonable range in this context and indicates an anomaly."
+4071,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99 degrees Celsius) compared to the other temperature measurements, which suggests an anomaly in these values.
+
+Confidence: 90%"
+4072,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high, reaching 99 degrees Celsius. This is not a reasonable range for these types of measurements in the given context, as it would cause damage to the system or material being measured. The amperage value is also negative, which is unusual and inconsistent with the provided context."
+4073,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99) compared to the other measurements, which are typically in the range of -10 to 30 degrees Celsius. This indicates an anomaly in the data."
+4074,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four and temperature\_degC\_five are extremely high (99°C) compared to the other temperature measurements which are in the range of -10°C to 25.62°C. This is not a reasonable range for these values and indicates an anomaly."
+4075,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurement data."
+4076,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. Additionally, the volumetric flow value is significantly higher than in other measurements, further supporting the presence of an anomaly."
+4077,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they exceed the boiling point of water. This is considered a severe anomaly."
+4078,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being outside of a reasonable range. This indicates an anomaly in the measurement data."
+4079,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99 degrees Celsius) compared to the other temperature measurements, which are typically around -10 degrees Celsius. This is not a reasonable range for this context and indicates an anomaly in the data."
+4080,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are all below 0°C. This is not a reasonable range in this context and indicates an anomaly."
+4081,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are around -10°C. This is not a reasonable range in this context and indicates an anomaly."
+4082,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as well as being unrealistic in this application. This is a clear anomaly that requires further investigation."
+4083,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature\_degC\_three, temperature\_degC\_four, and temperature\_degC\_five are extremely high (99°C) compared to the other temperature measurements in the dataset. This is not a reasonable range for this context, as it is far beyond the boiling point of water. Additionally, such a sudden increase in temperature would likely cause significant changes in other measured values, which are not present here. Therefore, these measurements are considered anomalies."
+4084,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99 degrees) compared to the other temperature measurements, which suggests an anomaly in these values."
+4085,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements provided in the context, which range from -10°C to 28.33°C. This is a clear anomaly that should be addressed."
+4086,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high, reaching 99 degrees Celsius. This is not a reasonable range for these types of measurements in the given context, as it would cause damage to the system or material being measured. The amperage value is also negative, which is unusual and inconsistent with the provided context."
+4087,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is likely an error or anomaly in the data."
+4088,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other temperature measurements, which are typically around -10°C. This is likely a data entry error or sensor malfunction."
+4089,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context, as they exceed the boiling point of water. This is highly unlikely in a refrigeration system."
+4090,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high, reaching 99 degrees Celsius. This is not a reasonable range for these types of measurements in the given context, as it would indicate overheating or malfunctioning equipment."
+4091,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are reported as 99 degrees Celsius, which is not a reasonable range for this context. This indicates an issue with the sensor readings or data transmission."
+4092,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for all five sensors are extremely high (99°C) and inconsistent with the given context of a cryogenic system. This is highly unlikely to occur in such an environment, making it a significant anomaly."
+4093,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (99°C) compared to the other measurements, which are typically around -10°C. This is likely a data entry error or sensor malfunction."
+4094,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high (ninety-nine degrees Celsius) compared to the other temperature measurements provided in the context. This is unlikely to occur in a real-world scenario, especially considering that the other temperatures are around -10 degrees Celsius. The amperage value also seems unchanged despite the significant change in temperature, which raises further suspicion of an anomaly."
+4095,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are reported as 99 degrees Celsius, which is not a reasonable range for this context. Additionally, the temperature_degC_six value of 25 degrees Celsius is also significantly lower than the other temperatures and inconsistent with the given context."
+4096,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four` and `temperature_degC_five` are extremely high (99°C) compared to the other measurements, which indicates an anomaly in this test measurement."
+4097,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are extremely high (99°C) compared to the other measurements, which indicates an anomaly. This is not a reasonable range for temperatures in this context and inconsistent with the given context."
+4098,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for `temperature_degC_three`, `temperature_degC_four`, and `temperature_degC_five` are extremely high, reaching 99 degrees Celsius. This is not a reasonable range for these types of measurements in the given context, as it would indicate overheating or malfunctioning equipment."
+4099,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all five sensors are reported as 99 degrees Celsius, which is significantly higher than the expected range of -40 to 60 degrees Celsius. This indicates a measurement error or anomaly in the data."

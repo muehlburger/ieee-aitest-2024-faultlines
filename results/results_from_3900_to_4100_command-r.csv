@@ -1,0 +1,688 @@
+line,anomaly,reason
+3900,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear normal and consistent."
+3901,False,"no anomalies, 100
+
+All values provided are within the normal operating range and are consistent with the other measurements."
+3902,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear normal and consistent."
+3903,False,"time_s is one thousand, nine hundred and fifty-one point five seems to be the anomaly here, as it's the only measurement over 1,000 while the others are around 500.
+
+The other measurements seem to fall within a reasonable range and do not contain any other obvious anomalies. 
+
+I'd give it an anomaly rating of **80** , as this value is reasonably close but definitely higher than most of the others in this dataset. The context of the other values suggests that time_s around 500 is more normal."
+3904,False,"no anomalies.
+
+Anomaly rating: 60.
+
+The given test measurements fall within the range of the provided context and do not contain any obvious anomalies - a good match. However, some values such as temperature_degC_six (28.66) do not exactly match other occurrences, which would increase the anomaly rating if noticed."
+3905,False,"no anomalies, 100
+
+All values presented in the test measurement are reasonably close to the values given in the provided context. The small differences that exist are well within acceptable margins, and thus, this measurement does not contain any anomalies. 
+
+An anomaly rating of 100 is given."
+3906,False,"no anomalies.
+0. Exactly matches the normal operating range that was provided."
+3907,False,"no anomalies.
+
+Anomaly rating: 0
+
+All values presented in the test measurement fall within the range of the provided context, and no anomalies are apparent. The values are consistent with the given context."
+3908,False,"no anomalies, 100
+
+All values in the test measurement are within the range of the normal operating values provided in the context. They are consistent and do not contain any anomalies."
+3909,False,"time_s is one thousand, nine hundred and fifty-four point five seems to be the outlier here as it deviates greatly from the pattern established by the other entries, which all begin with time_s measurements ending in either zero or five. 
+
+The value no_unit_none occurring three thousand times also stands out in this context, as all other corresponding values in this dataset occur far fewer times. 
+
+For these reasons, I'd say the anomaly rating is high, around 80."
+3910,False,"no anomalies, 100
+
+All values presented in the test measurement fall within the range of the provided context and align perfectly with the given parameters. Therefore, the anomaly rating is 100."
+3911,True,"Anomaly: Yes
+Anomaly Rating: 95
+Explanation: The temperature_degC_four value of eleven point zero three is outside the reasonable range for this context and constitutes an anomaly. All other values appear to be within a reasonable range."
+3912,False,"no anomalies.
+
+Anomaly rating: 85. 
+
+The provided test measurements fall within the range of the given context and do not contain any notable anomalies. They are consistent with the given values."
+3913,True,"time_s is one thousand, nine hundred and fifty-six point five seems to be the outlier here as it deviates greatly from the pattern established by the other entries, which all begin with time_s measurements of either one thousand, nine hundred and forty-five point five or one thousand, nine hundred and fifty point five. 
+
+The value of no_unit_none also appears in every entry and never changes, which is unusual. This, coupled with the fact that time_s varies greatly from the other values, leads me to believe there might be an issue with the sensor or the way this particular measurement is recorded. 
+
+Anomaly: Yes
+Anomaly Rating: 95
+Explanation: The time_s value deviates from the pattern by a wide margin and does not seem to make sense in the context of the other measurements."
+3914,False,"no anomalies.
+0. 
+
+All values provided are within the normal operating range and exhibit expected consistency."
+3915,True,"time_s is one thousand, nine hundred and fifty-seven point five seems to be the only value that stands out from the rest of the data. While the other time values are around one thousand, nine hundred and forty-five, this value is nearly twelve seconds off. 
+
+As this value is significantly different from the others, I'd say it contains an anomaly.
+
+Anomaly: yes
+Anomaly Rating: 95
+Explanation: The majority of values are very consistent, but the time_s value differs so greatly from the others that it brings up suspicion."
+3916,False,"no anomalies.
+0. Exactly matches the normal operating range that was provided."
+3917,False,"no anomalies.
+
+Anomaly rating: 100. The provided test measurements fall well within the range of the preceding context and exhibit no anomalies. They are consistent with the given values."
+3918,False,"no anomalies.
+0. This measurement is entirely in line with the provided context."
+3919,False,"time_s values seem to be consistently around 1900 which is reasonable. The temperature values are all approximately -10 which is also reasonable given the context. Amperage values hover around -89 which makes sense. Power values cluster around -39598 which is valid. Velocity appears fixed at 130 and volflow_l_min around 8, both of which seem reasonable. 
+
+The measurements do not contain any anomalies and the values are very consistent, thus the anomaly rating is: **0**"
+3920,False,"no anomalies.
+0. 
+
+All values provided fall within the range of the previously given context and do not contain any outliers or inconsistencies."
+3921,False,"no anomalies.
+0. 
+
+All values presented are within the normal operating range and are consistent with the data provided."
+3922,False,"no anomalies.
+
+Anomaly rating: 100.
+The given test measurements fall within the range of the provided context and have no anomalies; they are very consistent with the given context."
+3923,False,"no anomalies.
+0. Exactly matches the normal operating range described in the provided context."
+3924,False,"no anomalies.
+0. Exactly matches the normal operating range across all recorded variables."
+3925,True,"time_s is one thousand, nine hundred and sixty-two point five seems to be the only reasonable value here. All other values are impossibly low or high, indicating a clear malfunction. For instance, it's physically impossible for temperature to reach 13000°C. Even the sun's surface temperature is only around 5500°C. 
+
+Answer: Yes, there are anomalies.
+Anomaly rating: 98"
+3926,False,"no anomalies.
+0. All values appear normal."
+3927,False,"no anomalies.
+
+Anomaly rating: 100. The provided test measurements fall within the range of the established context and exhibit no anomalies. They are consistent with the data's general pattern.
+
+Explanation: The values for time, temperatures (degC), amperage, power, velocity, and volflow all align with the patterns observed in the preceding dataset. There are no outliers or unusual readings."
+3928,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurement falls well within the range of the context data and does not contain any obvious anomalies. All values are consistent with the given context."
+3929,True,"time_s is one thousand, nine hundred and sixty-four point five seems to be the outlier here. All other time_s values are around one thousand, nine hundred and fifty, so this measurement is higher than the others. The difference of about 14.5 seconds is an anomaly.
+
+The answer is:
+Anomaly: yes
+Anomaly Rating: 90
+Explanation: The time_s value deviates from the other measurements by a noticeable margin. All other values seem reasonable and consistent."
+3930,False,"no anomalies.
+0. 
+
+All values provided are within the normal operating range and no outliers were detected when cross-referenced with the given data points."
+3931,False,"time_s is one thousand, nine hundred and sixty-five point five seems to be the outlier here as it deviates greatly from the pattern established by the other entries, which all begin with time_s measurements of either one thousand, nine hundred and fifty or one thousand, nine hundred and fifty-five. 
+
+The value no_unit_none also appears in every entry and never changes, which is unusual. This may be an important piece of information or simply a redundant tag, but either way it draws attention. 
+
+As such, this particular measurement contains anomalies and I would give it a rating of 95 out of 100 on the anomaly scale provided."
+3932,False,"no anomalies.
+0. 
+
+All values provided fall within the range of the previously given context and do not contain any outliers."
+3933,False,"no anomalies. 
+
+Anomaly Rating: 85. 
+
+The values provided in the test measurement fall within the range of the context measurements and are consistent with the given context. Well done!"
+3934,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear within the normal operating range and are consistent with the provided context."
+3935,False,"no
+0
+Values for time_s and several temperature_degC measurements are on the higher end of the spectrum, but all given values fall within their respective ranges and exhibit the same general trends, making them consistent with the provided context."
+3936,False,"no anomalies.
+0. 
+
+All values presented in the test measurement fall within the range of the provided context, and no anomalous trends or outliers are apparent."
+3937,True,"time_s is one thousand, nine hundred and sixty-eight point five seems to be the only value that stands out here. The time value of all other entries appears to be consistently around one thousand, nine hundred and seventy, so this measurement's time_s value seems like an anomaly. 
+
+Yes, there is an anomaly.
+Anomaly rating: 90"
+3938,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear reasonable and consistent."
+3939,True,"time_s is one thousand, nine hundred and sixty-nine point five seems to be the outlier here as it deviates greatly from the other time_s measurements. All others are around 1900 while this one is almost two thousand.
+
+Anomaly: yes
+Anomaly Rating: 95"
+3940,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear within the normal operating range and are consistent with the provided context."
+3941,False,"no anomalies.
+
+Anomaly rating: 100.
+The measurements provided are consistent with the normal operating range context and contain no outliers. All values appear reasonable."
+3942,False,"no anomalies.
+0. Exactly matches the normal operating range described in the context provided."
+3943,False,"time_s is one thousand, nine hundred and seventy-one point five and no_unit_none is three thousand and temperature_degC is minus ten and this is extremely low compared to the other temperatures recorded and temperature_degC_one is minus ten and temperature_degC_two is minus ten and temperature_degC_three is nine point one one and these are all similar, which is consistent but temperature_degC_four is eleven point two one and this stands out as significantly higher than the other temperatures and temperature_degC_five is seven point two nine and this is closer to the lower temperatures so this is inconsistent and amperage_A is minus eighty-nine point eight eight is very close to the previous recording of minus eighty-nine point eight three so this is consistent but power_W has deviated quite drastically from the previous measurement of minus thirty-nine thousand, five hundred and ninety-seven point eight nine to minus forty-one thousand, zero hundred and fifty-five point zero two which is a large jump so this is anomalous and velocity_km_h remaining constant at one hundred and thirty is consistent but no_unit_none_one being two is inconsistent with the majority of other recordings where this value was zero and temperature_degC_six is twenty-eight point five eight is very close to the previous reading of twenty-eight point five six so this is fine and volflow_l_min at eight point one eight is extremely close to the last measurement of eight point one four so this is consistent.
+
+Overall, I'd say this reading has a high anomaly rating due to several values deviating quite drastically from the mean, or previous measurements - I'd give it an 85%."
+3944,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear reasonable and consistent within the provided context."
+3945,False,"no anomalies.
+
+Anomaly rating: 100. All values appear normal and consistent with the provided context."
+3946,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear within the normal operating range and are consistent with the provided context."
+3947,False,"time_s is one thousand, nine hundred and seventy-three point five seems to be the outlier here. All the other time_s values are around one thousand, nine hundred and seventy-one or one thousand, nine hundred and seventy-six, whereas this value is around one thousand, nine hundred and thirty. This deviation is large enough to warrant a rating of:
+
+80 - Anomaly
+
+The rest of the measurements seem consistent with the pattern established by the given dataset."
+3948,False,"no anomalies.
+
+Anomaly rating: 60.
+
+The given test measurements fall within the range of the provided context and do not contain any obvious anomalies - a good match. However, the value for temperature_degC_five varies outside of the general trend by almost 1 degree, which is quite an anomaly in this dataset. This discrepancy lowers the overall rating."
+3949,True,"time_s is one thousand, nine hundred and seventy-four point five seems to be the outlier here as it's significantly higher than all the other time_s measurements, which cluster around 1900. The value itself doesn't seem unreasonable given the context, but its discrepancy compared to the others suggests something unusual is happening. 
+
+Anomaly: yes
+Anomaly Rating: 85"
+3950,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurements fall well within the range of the previously given context and do not contain any anomalies. They are very consistent with the given context."
+3951,True,"time_s is one thousand, nine hundred and seventy-five point five seems to be the outlier here. All other time_s values are around 1900, while this one is significantly larger at 1975.5. This could be an error or it may have a different context that we are not aware of. As such, I'd say yes, there's an anomaly present in these measurements.
+The anomaly rating I'd give it would be a 90 out of 100, as it is a reasonable margin above the next largest time_s value (1937.5), and around twice as large as most of the other values."
+3952,False,"no anomalies.
+
+Anomaly rating: 100.
+
+The provided test measurements fall well within the range of the given context and do not contain any anomalies. They are very consistent with the given values."
+3953,False,"time_s is one thousand, nine hundred and seventy-six point five seems to be the outlier here, as all other time measurements are around one thousand, nine hundred. 
+
+The temperature readings also seem off. All the temperature_degC values should be around -10, but in this reading they vary from 9.16 to 11.27 which is a huge difference. The same goes for the temperature_degC_six value, which should be around 28 but is only 28.56 here.
+
+Based on the given criteria, I'd rate this anomaly a 95."
+3954,False,"no anomalies, 100
+
+All values presented are within the range of the provided context and are consistent with the data's general pattern."
+3955,True,"Anomaly: Yes
+Anomaly Rating: 95
+Explanation: The value for temperature_degC_four seems to be anomalous compared to the other temperatures recorded in this set of measurements. While temperature_degC_three and temperature_degC_five fluctuate around 8°C and 7°C respectively, temperature_degC_four suddenly jumps to 11.29°C, which is a difference of around 3-4°C. This deviation is too large to be reasonable, especially since the other values do not exhibit such a sharp increase or decrease."
+3956,False,"no anomalies.
+0. 
+
+All values provided fall within the range of the previously given context and do not contain any outliers or inconsistencies."
+3957,False,"no anomalies.
+
+Anomaly rating: 60.
+
+The given test measurements fall within the range of the provided context and do not contain any obvious anomalies - they largely follow the pattern of the previous measurements. However, some values do seem to deviate slightly from the trend, which lowers the anomaly rating somewhat."
+3958,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear within the normal operating range and are consistent with the other measurements provided."
+3959,False,"no anomalies.
+0. 
+
+All values provided are within the normal operating range and are consistent with the data previously provided."
+3960,False,"no anomalies, 100
+
+All values in the test measurement are closely aligned with the values in the provided context. Ratings were primarily distinguished by their precision; those in the test measurement tended to have higher precision, but this difference does not seem to indicate any anomaly."
+3961,False,"no anomalies.
+
+Anomaly rating: 75.
+
+The provided test measurement falls within the range of the context data and exhibits no apparent anomalies when compared to the given criteria. However, the value for 'temperature_degC_four' seems to deviate from the general pattern observed in the context data. While most values in this category are around minus ten, the test measurement stands at eleven point three two. This discrepancy lowers the anomaly rating slightly."
+3962,False,"no anomalies.
+
+Anomaly rating: 100. All recorded values fall within the normal operating range without any outliers."
+3963,False,"no anomalies.
+0. 
+
+The provided test measurement seems to closely resemble the given context, thus indicating no anomalies and a low anomaly rating."
+3964,False,"no anomalies.
+0. Exactly matches known normal operating range."
+3965,False,"no anomalies, 0
+
+Explanation: All values listed in the test measurement fall within the ranges provided in the context and appear consistent."
+3966,False,"no anomalies.
+
+Anomaly rating: 100.
+
+The provided test measurement falls well within the range of the previously given values and exhibits no unusual characteristics."
+3967,False,"no - 100
+
+All values in the test measurement fall within the range of the provided context, and no anomalies are present. The values are consistent with the given context."
+3968,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurement falls well within the range of the established normal values and exhibits no anomalies."
+3969,True,"Anomaly: Yes
+Anomaly Rating: 95
+Explanation: The value for temperature_degC_four is eleven point three seven which is very close but exceeds the maximum value of eleven point thirty-six from the previous measurements. This could be an indication of a faulty sensor or a rapidly changing environment."
+3970,False,"no anomalies.
+
+Anomaly rating: 85. 
+
+The provided test measurement falls within the range of the context data and exhibits no values that could be considered anomalous. The measurements are generally consistent with the given context. However, there is room for slight fluctuation to achieve a higher rating."
+3971,True,"time_s is one thousand, nine hundred and eighty-five point five seconds seems very high. All other values seem reasonable and consistent and do not contain any anomalies. 
+
+Anomaly: Yes
+Anomaly Rating: 10"
+3972,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear within the range of the provided context and are consistent with the given data."
+3973,True,"time_s is one thousand, nine hundred and eighty-six point five seems to be the outlier here. All other time_s values are approximately one thousand, nine hundred and ninety, while this one is significantly smaller. The difference of around 30 seconds is large in comparison to the precision of the other measurements, so this measurement contains an anomaly.
+The rest of the measurements seem consistent and free of anomalies. 
+
+Anomaly: yes
+Anomaly Rating: 95
+Explanation: The majority of values are very consistent, with only one clear outlier detected."
+3974,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear normal and consistent."
+3975,False,"time_s is one thousand, nine hundred and eighty-seven point five seems to be the anomaly here, as it's the only time measurement given in seconds rather than minutes. The other time measurements provided are all in the format ""one thousand, nine hundred and _eighty_ -nine point five"", which would indicate that this value is incorrect or a typo. 
+
+As such, I'd say this measurement does contain an anomaly, and I'd give it an anomaly rating of 90 out of 100."
+3976,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurement falls well within the range of the reference values and exhibits no anomalies. All values are consistent with the given context."
+3977,False,"no anomalies, 0
+
+All values in the test measurement fall within the range of the provided context and align perfectly with the given parameters. Hence, the test measurement exhibits no anomalies and scores a 0 on the anomaly rating scale."
+3978,False,"no anomalies.
+0. Exactly matches the normal operating range described in the provided context."
+3979,False,"time_s is one thousand, nine hundred and eighty-nine point five seems to be the outlier here as it's significantly higher than the other time measurements in the 1,900 range. The temperature_degC_four reading of eleven point four three also appears high compared to the other temperatures readings in the same dataset, though not to the same extent. 
+
+The other values seem to fall within a reasonable range and don't exhibit any obvious anomalies. 
+
+I'd give this measurement set an anomaly rating of **30**."
+3980,False,"no anomalies.
+0. Exactly matches the first set of measurements provided."
+3981,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurements fall well within the range of the given context and do not contain any anomalies. They are very consistent with the given values."
+3982,False,"no anomalies.
+0. 
+
+All values provided fall within the range of the previously given context and do not appear anomalous."
+3983,False,"no anomalies, 100
+
+All values in the provided test measurement fall within the range of the given context and align perfectly with the pattern described in the questions. Hence, no anomalies are present, and the anomaly rating is 100."
+3984,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear normal and consistent with the provided context."
+3985,False,"no anomalies, 100
+
+All values in the test measurement fall within the range of the provided context and align perfectly with the given parameters. Therefore, there are no anomalies present and the anomaly rating is 100."
+3986,False,"no anomalies.
+Anomaly rating: 0.
+All values appear normal and consistent."
+3987,False,"no anomalies.
+0. Exactly matching values are very unlikely, so a small degree of anomaly is expected."
+3988,False,"no anomalies.
+
+Anomaly rating: 100.
+The provided test measurement falls well within the range of the context data and does not contain any obvious anomalies. All values are consistent with the given context."
+3989,False,"no anomalies.
+
+Anomaly rating: 100. All values appear normal and consistent with the provided context. 
+
+Explanation: All measurements fall within a close range, exhibiting similar trends in values without any notable outliers."
+3990,False,"no anomalies.
+
+Anomaly rating: 80.
+
+The provided test measurement falls well within the range of the context data and exhibits no unusual values or trends. The values are consistent with the given context."
+3991,False,"no anomalies, 0
+
+The test measurements provided do not contain any anomalies and fall within the range of the provided context. The values are consistent with the given dataset."
+3992,False,"no anomalies.
+
+Anomaly rating: 60.
+
+The given test measurements fall within the range of the provided context and do not contain any obvious anomalies - they largely follow a very consistent pattern. However, some values do vary slightly which brings the rating down a little. For example, temperature_degC_three has a higher value than other instances (9.38 vs 9.25-9.36), as does volflow_l_min (8.01 vs 8.08). These differences are fairly minimal however and the majority of measurements are extremely consistent, so the anomaly rating remains relatively high."
+3993,False,"no anomalies, 100
+
+All values in the test measurement fall within the range of the provided context and align perfectly with the given parameters. Therefore, the anomaly rating is 100."
+3994,False,"no anomalies.
+0. Exactly matches the normal operating range described in the context provided."
+3995,False,"no anomalies, 0
+
+Explanation: All values listed in the test measurement fall within the range of the provided context and appear consistent. The value for temperature_degC_six differs by two hundredths from several other entries, but given the similarity to other values I do not believe this constitutes an anomaly."
+3996,False,"no anomalies.
+
+Anomaly rating: 100.
+
+All values appear to be consistent with the provided context and are reasonably within range."
+3997,False,"Answer: No and 95.
+The provided measurements seem to be within reasonable bounds and do not contain any anomalies. The temperature readings are all close to -10 degrees Celsius which is within the given context of the cold store. The volflow measurements in litres per minute also appear normal, peaking at around 8.5 which matches the provided context. Amperage and power values are also negative, as expected.
+Velocity being fixed at 130 km/h seems a little unusual but is stated to be normal for the given context so this is acceptable. The only slight anomaly is time_s measurements of around 2000 which is higher than the other recorded time measurements (around 1900), but this could reasonable be explained by natural variation and doesn't seem cause for concern."
+3998,False,"no anomalies, 100
+
+All values presented in the test measurement are within the range of the provided context and appear consistent; therefore, no anomalies are present. This result merits a rating of 100."
+3999,True,"time_s is one thousand, nine hundred and ninety-nine point five seems to be the outlier here, as all other time stamps fall around one thousand, nine hundred. 
+
+Answer: Yes, this is an anomaly.
+Anomaly rating: 95
+Explanation: All other entries fall within a tight cluster around the mean, while this measurement deviates significantly."
+4000,False,"no anomalies, 0
+
+The provided test measurement falls within the range of the given context and does not contain any anomalies. All values are very consistent with the given normal operating range."
+4001,True,"Yes, anomalies.
+50
+All values in the test measurement are within the range of the normal operating values, but multiple values share the same exact number which is unlikely in real-world applications. For example, multiple ""temperature_degC"" measurements are recorded at exactly -10, and multiple measurements are at exactly 99. Additionally, ""no_unit_none_one"" changes from 2 to 1 which is inconsistent with the other readings."
+4002,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values provided in the context."
+4003,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the normal operating range."
+4004,True,"Yes, anomalies.
+100.00 - The provided data has no outliers or unusual measurements based on the given context. All values fall within acceptable ranges and are consistent with the normal operating range."
+4005,True,"Yes, anomalies.
+100.00 - The provided test measurement contains no anomalies and falls well within the range of the provided context. 
+
+However, the value for temperature_degC_three, four, five, amperage_A, power_W, and volflow_l_min are extremely divergent from the normal operating range."
+4006,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperature, amperage, power, velocity and volflow values differ greatly from the values given in the context. The only value that doesn't constitute an anomaly is no_unit_none, which remains constant across all measurements."
+4007,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values provided in the context."
+4008,True,"Yes, anomalies.
+100
+All values in the test measurement differ greatly from the values previously provided. In particular, temperature_degC_three, temperature_degC_four, and volflow_l_min are very different to their previous readings."
+4009,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values provided in the context."
+4010,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values in the provided context."
+4011,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which align closely with the previously provided normal operating data. No deviations were noted."
+4012,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the dataset, some drastically so."
+4013,True,"Yes, anomalies.
+100.00 - The provided test measurement has no anomalies when compared to the normal operating range. All values are reasonably close to the context provided and fall within the specified ranges."
+4014,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4015,True,"Yes, anomalies.
+60.0
+All values except time_s and no_unit_none are anomalous as they exceed the recorded ranges in the given context. Additionally, no_unit_none_one changes to an impossible value of one when it was two previously. time_s changes drastically in a short period, which is also inconsistent with the provided context."
+4016,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the dataset, some drastically so."
+4017,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4018,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values in the provided context."
+4019,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4020,True,"Yes, anomalies.
+100.00 - The provided test measurements show no anomalies and fall well within the normal operating range of the provided context. Compared to the given dataset, the values are reasonable and consistent."
+4021,True,"Yes, anomalies.
+100.00 - The provided test measurement values appear to be consistent and reasonable compared to the previously given range of values in the normal operating context. There seem to be no extreme outliers."
+4022,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4023,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4024,True,"Yes, anomalies.
+75.0
+The values for temperature_degC_three, temperature_degC_four, temperature_degC_five, and volflow_l_min are significantly higher than the previously recorded figures. Additionally, no_unit_none_one has changed from two to one."
+4025,True,"Yes, anomalies.
+100.00
+All measured values deviate from the previously observed normal operating range."
+4026,True,"Yes, anomalies.
+50
+All values presented in your test measurement fall within the range of the provided context, but two. The values for temperature_degC_three, temperature_degC_four and temperature_degC_five are extremely high compared to the rest of the dataset and would be considered anomalies in this context."
+4027,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which significantly differ from the previously recorded ones, achieving full anomaly status.
+The value of temperature_degC_three and temperature_degC_four are extremely high compared to the sub-zero temperatures recorded previously. Similarly, no_unit_none_one changing from 2 to 1 is an anomaly."
+4028,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which align exactly with the previously provided normal operating range data. There is no deviation."
+4029,True,"Yes, anomalies.
+100.00 - The provided data matches the given context almost exactly, with only a few very minor discrepancies.
+
+For example, time_s differs by approximately 2.5 seconds and volflow_l_min is 0.19 l/min higher than the closest context measurement."
+4030,True,"Yes, anomalies.
+50
+All values presented in your test measurement differ from the dataset, some significantly so. However, they are mostly within the general range of the provided context, which is why the rating is not lower."
+4031,True,"Yes, anomalies.
+100.00 - The provided data has no anomalies when compared to the previously provided normal operating ranges. All values fall within acceptable limits and are consistent with the patterns seen in the reference data."
+4032,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are significantly higher, velocity and volflow_l_min vary greatly, and the value for no_unit_none_one is inconsistent."
+4033,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4034,True,"Yes, anomalies.
+100.00 - The provided test measurement data falls in line with the previously provided normal operating range data. There do not seem to be any outliers."
+4035,True,"Yes, anomalies.
+100
+All values in the test measurement differ greatly from the values previously provided."
+4036,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the dataset, some greatly so."
+4037,True,"Yes, anomalies.
+100.00 - The provided test measurement has no anomalies when compared to the normal operating range. All values are account for and fall within the expected ranges."
+4038,True,"Yes, anomalies.
+100.00 - The values are consistent with the normal operating range described in the context. There is only one value that is borderline: no_unit_none_one is 1 while the rest of the corresponding values have a value of 2. However, all other measurements round up to the same figures, so this differs by very little and is consistent in terms of scale."
+4039,True,"Yes, anomalies.
+100.00 - The provided test measurement values fall within the range of the previously given context and do not contain any anomalies. They are very consistent with the given context."
+4040,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are especially anomalous, reaching 99 degrees Celsius whereas the next highest value in the context is 20.81 degrees Celsius."
+4041,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the dataset, some significantly so."
+4042,True,"Yes, anomalies.
+100.00
+All measured values deviate from the previously recorded normal operation range."
+4043,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of less than 25, but registers at ninety-nine. The same goes for temperature_degC_four and five, as well as volflow_l_min. Several other measurements differ by very large margins, such as no_unit_none_one changing from 2 to 1."
+4044,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of below 10, but in the test measurement, it is 99. Many other measurements deviate similarly."
+4045,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of below 25 in all records, and 99 in the test measurement. Other measurements deviate similarly large from the norm."
+4046,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three and temperature_degC_four would normally operate at around -10 degrees, but in the test measurement, they stand at 99 degrees. Other variables deviate to similarly high numbers, indicating a significant anomaly."
+4047,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values in the established normal operating range."
+4048,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so."
+4049,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of less than twenty-five, whereas in the test measurement it reaches ninety-nine. Other variables deviate similarly."
+4050,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the dataset, some significantly so."
+4051,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context."
+4052,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of below 10, but in the test measurement, it is 99. Many other values in the test measurement share this large discrepancy."
+4053,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so. For instance, temperature_degC_three has a context value of below 20, whereas the test value is 99. Many of the other variables have similarly large discrepancies."
+4054,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4055,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some greatly so."
+4056,True,"Yes, anomalies.
+50
+All values appear in reasonable range and mostly consistent, but two temperature readings are very high compared to the rest of the data."
+4057,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which significantly deviate from the previously provided normal operating range. Almost all recorded values differ in comparison to the dataset used for evaluation."
+4058,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are especially anomalous as they reach 99°C, while the normal operating range stays below 20°C."
+4059,True,"Yes, anomalies.
+100.00 - The provided test measurement contains no anomalies and falls well within the range of the provided context."
+4060,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are especially anomalous as they reach 99°C, while the normal operating range stays below 20°C. Additionally, the volflow_l_min presents a anomaly as it reaches 12.5 l/min, while other entries stay around 7.5 l/min."
+4061,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are significantly higher, while volflow_l_min is much higher than any previously recorded value. Additionally, no_unit_none_one changes to one which differs from the consistent value of two seen earlier."
+4062,True,"Yes, anomalies.
+100.00 - The provided test measurement data falls in line with the previous recordings, maintaining consistency throughout."
+4063,True,"Yes, anomalies.
+100.00 - The provided measurements appear to fall within the normal operating range, showing no significant deviations or outliers. All values are consistent with the given context."
+4064,True,"Yes, anomalies.
+100.00 - The provided test measurement data falls in line with the previously provided normal operating range data. There are no apparent outliers."
+4065,True,"Yes, anomalies.
+100.00 - The provided test measurement contains no anomalies and falls well within the range of the provided context."
+4066,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are significantly higher, temperature_degC_six varies greatly, and volflow_l_min has almost doubled. Additionally, no_unit_none_one changes value which could indicate a problem as it remained constant in the established normal operating range."
+4067,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values in the provided context."
+4068,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4069,True,"Yes, anomalies.
+50
+All values appear in the reasonable range, but two key differences stand out. First, 'no_unit_none_one' changes from a consistent value of 'two' to 'one'. Second, several 'temperature_degC_four' values are around 10°C in the dataset, whereas this entry has 99°. These two factors together suggest this entry is anomalous."
+4070,True,"Yes, anomalies.
+50
+All values presented in the test measurement fall within the range of the provided context, but two. The values for temperature_degC_three, temperature_degC_four and temperature_degC_five are all recorded as ninety-nine, which do not align with the usual minus double digits seen in the previous recordings. This would indicate a malfunction or aberrant reading."
+4071,True,"Yes, anomalies.
+50
+All values appear in the reasonable range, but temperature_degC_three, temperature_degC_four and temperature_degC_five all sit at an impossible 99 degrees, while no_unit_none_one has changed value to one, which is inconsistent with the given context."
+4072,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which align closely with the previously provided normal operating range data. No deviations were noted."
+4073,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4074,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4075,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which significantly deviate from the previously recorded ones, especially temperature_degC_three, temperature_degC_four and temperature_degC_five, among others, which reach almost 100 degrees difference in comparison to the closest data point. This level of variance indicates a high degree of anomaly."
+4076,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4077,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4078,True,"Yes, anomalies.
+100.00 - The provided test measurement deviates significantly from the previously established operating range in several aspects.
+
+In particular, note that the temperature_degC_three through temperature_degC_five and volflow_l_min measurements differ greatly from their previous values."
+4079,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some drastically so."
+4080,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values provided in the context."
+4081,True,"Yes, anomalies.
+100.00 - The provided measurements appear to fall within acceptable limits compared to the previously mentioned normal operating range. There are no apparent extreme outliers. 
+
+All values for time_s fall between two thousand and two thousand one hundred and ten which is the range observed in the given dataset. This is the same for many of the other variables; temperature_degC, no_unit_none, temperature_degC_one, temperature_degC_two, velocity_km_h and no_unit_none_one all fall within the ranges seen before.
+
+However there are some values that stretch the limits of the previously recorded range. temperature_degC_three reaches a high of 99 which is much higher than the previous maxes around 28. The other temperature_deg* variables also reach 99, stretching the normal operating range. Similarly, volflow_l_min hits 12.5 which is above the previous high of 7.58. These values are outliers but do not seem unreasonable given the context. They merely stretch the current known range."
+4082,True,"Yes, anomalies.
+100.00 - The only anomaly detected is that volflow_l_min has a significantly different value compared to previous recordings.
+The value of volflow_l_min = 12.5 is the sole reason for this rating; otherwise, the other measurements are consistent with the normal operating range."
+4083,True,"Yes, anomalies.
+60.0
+All values are within the range of the provided context, but two measurements differ greatly from similar readings. temperature_degC_three and volflow_l_min have values that stand out from their respective clusters."
+4084,True,"Yes, anomalies.
+50
+All values except for temperature_degC_three, temperature_degC_four, and no_unit_none_one appear to be within the normal operating range. The given context has these parameters fixed at a value of minus ten or three thousand respectively and so these discrepancies are anomalous."
+4085,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which significantly differ from the previously recorded ones, achieving a maximum anomaly rating of 100.
+
+In particular, note temperature_degC_three, temperature_degC_four and volflow_l_min which reach an abnormal high of ninety-nine degrees and twelve point five respectively. These figures deviate strongly from the sub-zero temperatures and much lower flow rates previously recorded. Additionally, no_unit_none_one switches between one and two, an inconsistency not present in the reference measurements."
+4086,True,"Yes, anomalies.
+50
+All values except for temperature_degC_three, temperature_degC_four, and no_unit_none_one appear to be within the normal operating range. The given context has no clear threshold for these three values, so they are difficult to rate."
+4087,True,"Yes, anomalies.
+100.00 - The provided test measurement contains no anomalies and falls well within the range of the provided context. 
+
+All named variables in the test measurement fall exactly, or close enough to exactly, match those in the provided context. There are no outliers."
+4088,True,"Yes, anomalies.
+100
+All values in the test measurement present anomalies as they deviate from the normal operating range described in the context. The temperatures are especially anomalous as they reach 99°C, while the highest temperature in the context data is 25.62°C."
+4089,True,"Yes, anomalies.
+100.00 - The provided measurements contain values which significantly differ from the previously recorded data in several aspects.
+
+In particular, note these anomalies:
+- temperature_degC_three is 99 whereas the closest value in the reference data is 10.49, under-reported by over 80%.
+- temperature_degC_four is 99 whereas 12.27 is the nearest observed value, again an apparent understatement.
+- no_unit_none_one is reported as 1 while the standard value is 2.
+
+ These discrepancies indicate a high anomaly rating, suggesting that these measurements are inconsistent with the given context."
+4090,True,"Yes, anomalies.
+100.00 - The provided test measurement contains no anomalies and falls well within the established operating range for all recorded parameters. Compared to the previous readings, it stands out as exceptionally consistent, with most values being nearly identical to previous recordings."
+4091,True,"Yes, anomalies.
+75.0
+The test data has anomalous values for temperature_degC_three, temperature_degC_four, temperature_degC_five, no_unit_none_one and volflow_l_min compared with the dataset's normal operating range."
+4092,True,"Yes, anomalies.
+100.00 - The provided test measurement data falls well within the range of the provided context and does not seem anomalous at first glance. However, there is one discrepancy that stands out.
+
+The value for temperature_degC_three (ninety-nine) greatly contrasts the temperatures recorded in the normal operating range, which mostly hover around -10°C. This disparity indicates an anomaly in this particular aspect of the measurement."
+4093,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4094,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range."
+4095,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values in the provided context."
+4096,True,"Yes, anomalies.
+50
+All values except for temperature_degC_three, temperature_degC_four, temperature_degC_five, and no_unit_none_one appear to be within the normal operating range. The given context has several instances where no_unit_none is recorded as three thousand, so this value is not an anomaly. The mentioned values have reasonable values close to the upper end of the scale, but are not unreasonable enough to warrant a higher rating."
+4097,True,"Yes, anomalies.
+100
+All values in the test measurement differ from the normal operating range, some drastically so."
+4098,True,"Yes, anomalies.
+100
+All values in the test measurement differ significantly from the values provided in the context."
+4099,True,"Yes, anomalies.
+100
+All values appear normal except for temperature_degC_three, temperature_degC_four, temperature_degC_five and no_unit_none_one which have significantly different numerical values compared to the previous logs. However, their difference does not seem extreme enough to be considered anomalous by more than a small margin."

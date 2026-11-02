@@ -1,0 +1,601 @@
+line,anomaly,reason
+3900,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the given test measurement are consistent with the provided context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency in the data."
+3901,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are within the expected range and consistent with the given context. There are no anomalies present in this test measurement."
+3902,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous data points."
+3903,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3904,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3905,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_four compared to other measurements, which could be due to minor fluctuations or errors in the data collection process. This variation does not significantly impact the overall consistency of the data, so the anomaly rating is 95 out of 100."
+3906,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature values are within a reasonable range, and all other measurements are also within their respective ranges. The only slight deviation is the power_W value which is slightly higher than the previous readings, but it is still within an acceptable range for this type of measurement."
+3907,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value which is slightly lower than the previous values. This could be due to natural fluctuations or minor sensor errors. Overall, the anomaly rating is high as the majority of the data points are consistent with the expected ranges and patterns."
+3908,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges, and there is no indication of any errors or inconsistencies."
+3909,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3910,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value which is slightly higher than the previous value (11.02 vs 11.03). This could be due to minor measurement errors or natural fluctuations in the data. Overall, the anomaly rating is high as the majority of the values are consistent with the given context and there are no major anomalies present."
+3911,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3912,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3913,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3914,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3915,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3916,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units."
+3917,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values in the given test measurement are consistent with the provided context and do not contain any anomalies. All measurements fall within reasonable ranges, and there is no indication of any errors or inconsistencies."
+3918,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight variation in temperature_degC_three compared to previous measurements, which could be due to natural fluctuations or measurement errors. This variation does not significantly impact the overall consistency of the data."
+3919,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from minus ten to eleven point zero seven, which is within a reasonable range for this context. The amperage_A value of minus eighty-nine point eight six is also consistent with the other measurements provided."
+3920,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the power_W value which is slightly higher than the previous readings. This could be due to minor fluctuations or measurement errors, but it does not significantly impact the overall consistency of the data."
+3921,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3922,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends in the data."
+3923,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: All values are within the expected range and consistent with the given context. There are no anomalies present in this test measurement."
+3924,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values are within a reasonable range, and all other measurements are also within their respective ranges."
+3925,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3926,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges, and there is no indication of any errors or inconsistencies."
+3927,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in the temperature_degC_three value compared to the previous measurements, which could be due to minor fluctuations or errors in the data collection process. This variation does not significantly impact the overall consistency of the data, so the anomaly rating remains high at 95."
+3928,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3929,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3930,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3931,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends in the data."
+3932,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three (nine point zero five) compared to the previous measurements (around eight point nine). This could be due to minor fluctuations or errors in the sensor readings. The overall consistency of the data suggests that this is not a significant anomaly, hence the high anomaly-rating of 95."
+3933,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value which is slightly higher than the previous values. This could be due to natural fluctuations or an error in measurement. Overall, the anomaly rating is high as most of the values are consistent with the provided context."
+3934,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within the expected ranges, and there is no indication of any unusual or unexpected data points."
+3935,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units."
+3936,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to +28, which is within the expected range for this type of data. The amperage_A value is also reasonable, as it falls within the typical range for a power source. The power_W value is consistent with the other measurements and does not appear to be an anomaly. The velocity_km_h value is also reasonable, as it falls within the expected range for this type of data. The no_unit_none_one value is consistent with the given context, as it represents a count of some unspecified unit. The volflow_l_min value is also reasonable, as it falls within the expected range for this type of data. Overall, the test measurement appears to be consistent with the provided context and does not contain any anomalies."
+3937,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_six compared to the previous measurements, which could be due to natural fluctuations or minor errors in data collection. This variation does not significantly impact the overall consistency of the dataset, so the anomaly rating is 90."
+3938,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3939,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided are consistent with the given context and do not contain any anomalies. They fall within reasonable ranges for each parameter, making this a reliable set of measurements."
+3940,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three (9.09) compared to the other measurements (around 8.81 - 9.42). This variation could be due to minor fluctuations or errors in the measurement process. The overall consistency and reasonable range of values make this test measurement have an anomaly rating of 95 out of 100."
+3941,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in the temperature_degC_four value compared to the previous measurements (11.2 instead of 11.23). This difference might be due to rounding errors or minor fluctuations in the data. Overall, the test measurement appears to be accurate and reliable."
+3942,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in the temperature_degC_three value compared to the previous measurements, which could be due to minor fluctuations or errors in the data collection process. This variation does not significantly impact the overall consistency of the data, so the anomaly rating remains high at 95."
+3943,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3944,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three compared to the previous measurements, which could be due to natural fluctuations or minor errors in data collection. This variation does not significantly impact the overall consistency of the data, so the anomaly rating is 90."
+3945,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided are within reasonable ranges and do not contain any anomalies. They are also consistent with the given context, making them reliable measurements. However, there is a slight variation in the temperature_degC_four value compared to other similar measurements, which reduces the rating slightly."
+3946,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to +28, which is within a reasonable range for this context. The amperage_A value of -89.89 A is also consistent with the provided context. The power_W value of -39598.3 W is negative, but it could be due to an error in the data collection process or a misunderstanding of the unit (Watts). However, this does not significantly impact the overall consistency and reasonability of the values provided."
+3947,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight variation in temperature_degC_three compared to previous measurements, which could be due to natural fluctuations or measurement errors. This variation does not significantly impact the overall consistency of the data."
+3948,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3949,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3950,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3951,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are within the given ranges and there are no anomalies present. All measurements appear to be consistent with the provided context."
+3952,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3953,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC_three value of nine point one six is slightly higher than the other temperatures, but it is still within a reasonable range for this context."
+3954,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3955,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the given test measurement are consistent with the provided context and do not contain any anomalies. The temperature, amperage, power, velocity, and volflow values are within reasonable ranges for their respective units."
+3956,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, making this a high-quality set of measurements."
+3957,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight variation in temperature_degC_three compared to other measurements, which could be due to minor fluctuations or measurement errors. Overall, the anomaly rating is high as the majority of the data points align well with the provided context."
+3958,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3959,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within reasonable ranges and do not contain any anomalies. However, the temperature_degC_three value is slightly lower than the other temperatures, which could be a minor inconsistency but does not significantly impact the overall data quality."
+3960,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3961,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within reasonable ranges and do not contain any anomalies. However, the temperature_degC_four value is slightly higher than the other temperatures, which could be a minor inconsistency but does not significantly impact the overall context."
+3962,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_three value compared to the previous measurement, which could be due to minor fluctuations or errors in the data collection process. This slight inconsistency results in a slightly lower anomaly rating of 90 out of 100."
+3963,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values are within a reasonable range, and all other values are also consistent with the provided context."
+3964,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within the expected ranges, making this a perfect score for consistency and accuracy."
+3965,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous data points."
+3966,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value compared to other measurements, which lowers the anomaly rating slightly."
+3967,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values are within the expected range and consistent with the given context. There are no anomalies present in this test measurement."
+3968,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are within the given ranges and consistent with the context provided. There is no anomaly detected in this test measurement."
+3969,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are consistent with the given context and do not contain any anomalies. The only slight deviation is in the temperature_degC_four value, which is slightly higher than the other temperatures, but it still falls within a reasonable range for this context."
+3970,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. They fall within reasonable ranges for each parameter, making the anomaly rating high at 95 out of 100."
+3971,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to 28, which is reasonable for a cold environment. The amperage_A value of -89.91 is within the expected range for an electrical system. The power_W value of -39598.49 is consistent with the context of a negative power output. The velocity_km_h value of 130 km/h is reasonable for a cold environment, and the no_unit_none_one value of 2 is consistent with the given context. The volflow_l_min value of 8.08 l/min is within the expected range for a liquid flow rate. Overall, the test measurement appears to be accurate and consistent with the provided context."
+3972,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three (nine point two seven) compared to the previous measurements (around eight point nine). This could be due to natural fluctuations or minor errors in data collection. The overall consistency of the data suggests that this is not a significant anomaly, resulting in an anomaly-rating of 95."
+3973,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to +30, which is reasonable for a typical day. The amperage_A value of -89.91 A is also within a reasonable range for an electrical system. The power_W value of -39598.5 W is negative, indicating that the device is consuming power instead of generating it, which is consistent with the context provided. The velocity_km_h value of 130 km/h is also within a reasonable range for a vehicle or wind speed. The no_unit_none_one value of 2 is consistent with the given context. The temperature_degC_six value of 28.53 °C is also within a reasonable range for a typical day. The volflow_l_min value of 8.07 L/min is also within a reasonable range for a liquid flow rate. Therefore, the anomaly rating is 95 out of 100."
+3974,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature values are within a reasonable range, and the other measurements are also consistent with the context."
+3975,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and within reasonable ranges. However, there is a slight variation in temperature_degC_four (11.4) compared to the previous measurements (around 11.06). This could be considered an anomaly but it's not significant enough to warrant a lower rating."
+3976,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three which is nine point two nine instead of eight point eight to eight point nine as seen in previous measurements. This could be due to minor fluctuations or errors in the data collection process. The overall consistency and reasonable range of values make this measurement have an anomaly rating of 95 out of 100."
+3977,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3978,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to 28.64, which is within the expected range. The amperage_A value of -89.92 is also reasonable for this context. The power_W value of -39598.54 is negative, but it could be due to a measurement error or an unusual situation. However, since there are no other anomalies in the data, the overall rating is 95."
+3979,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are within reasonable ranges and do not contain any anomalies. They are consistent with the given context, except for a slight variation in temperature_degC_three (9.31 instead of 9.28). However, this is not significant enough to be considered an anomaly."
+3980,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided are within reasonable ranges and do not contain any anomalies. They are also consistent with the given context. However, there is a slight discrepancy in the power_W value which is slightly different from the previous measurement (point five six vs point five five). This difference is minor and does not significantly impact the overall consistency of the data."
+3981,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. They fall within reasonable ranges for each parameter, and there is no significant deviation from the expected values."
+3982,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3983,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: All the values are within the given ranges and are consistent with the context. There are no anomalies present in this test measurement."
+3984,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All measurements fall within reasonable ranges for their respective units, and there is no indication of any errors or inconsistencies."
+3985,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to 28.65, which is reasonable for a cooling system. The amperage_A value of -89.92 is within the expected range for an AC unit. The power_W value of -39,598.59 is also consistent with the context, as it represents the power consumption of the AC unit. The velocity_km_h value of 130 is reasonable for a cooling system. The no_unit_none_one value of 2 is consistent with the given context. The volflow_l_min value of 8.03 is also within the expected range for an AC unit. Overall, the test measurement appears to be accurate and consistent with the provided context."
+3986,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight variation in temperature_degC_three compared to previous measurements, which could be due to natural fluctuations or measurement errors. This variation does not significantly impact the overall consistency of the data."
+3987,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the provided data."
+3988,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC_three value is slightly higher than the previous values, but it still falls within a reasonable range for this context."
+3989,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight variation in temperature_degC_three compared to previous measurements, which could be due to natural fluctuations or measurement errors. This variation does not significantly impact the overall consistency of the data."
+3990,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are consistent with the given context and do not contain any anomalies. The temperature_degC values range from -10 to 28.5, which is within the expected range for this dataset. The amperage_A value of -89.93 is also reasonable for a cooling system. The power_W value of -39,598.63 is negative, indicating that it's consuming energy instead of producing it, which is consistent with the context of a cooling system."
+3991,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value which is slightly higher than the other temperatures. This could be due to a minor error or an outlier, but it does not significantly impact the overall consistency of the data."
+3992,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC_four value is slightly higher than the previous values, but it still falls within a reasonable range for this dataset."
+3993,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency that would indicate an anomaly."
+3994,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends."
+3995,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values range from minus ten to eleven point five two, which is within a reasonable range for this context. The amperage_A value of minus eighty-nine point nine three is also consistent with the other test measurements provided. The power_W value of minus thirty-nine thousand, five hundred and ninety-eight point six seven is also consistent with the other test measurements provided. The velocity_km_h value of one hundred and thirty is also consistent with the other test measurements provided. The no_unit_none_one value of two is also consistent with the other test measurements provided. The temperature_degC_six value of twenty-eight point four nine is also consistent with the other test measurements provided. The volflow_l_min value of eight is also consistent with the other test measurements provided."
+3996,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The values provided are within the expected range and consistent with the given context. However, there is a slight discrepancy in the temperature_degC_four value which is slightly higher than the other temperatures. This could be due to a minor error or an outlier, but it does not significantly impact the overall consistency of the data. Therefore, the anomaly rating is 95."
+3997,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency that would indicate an anomaly."
+3998,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no significant deviation from the expected patterns or trends observed in the previous measurements."
+3999,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no obvious inconsistency or outlier among them."
+4000,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight variation in temperature_degC_three compared to other measurements, which could be due to minor fluctuations or errors in the data collection process. This variation does not significantly impact the overall consistency of the data, so the anomaly rating is 90."
+4001,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within a reasonable range of the provided context. They are much higher than the other temperatures in the dataset, which are all below zero. This indicates an anomaly in the data."
+4002,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the range of the other temperatures provided in the context. This indicates an anomaly in the data."
+4003,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within the expected range of -10 to +30 degrees Celsius. Additionally, the amperage value is negative which is not possible in a real-world scenario. These anomalies make the entire dataset suspicious and unreliable."
+4004,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within the expected range of -10 to 28.4 degrees Celsius. Additionally, the value for no_unit_none_one is 1 instead of 2 as per the given context. These anomalies make the rating 100."
+4005,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. Additionally, the value for amperage_A is negative which is not possible in real-world scenarios. These anomalies make the data inconsistent with the given context."
+4006,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: All the values are within reasonable ranges and there are no anomalies present in the given measurements. The temperature values are consistent with each other, and the power_W value is also consistent with the amperage_A value."
+4007,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not a reasonable range for the given context. This indicates an anomaly in the data."
+4008,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4009,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for a typical day. This indicates an anomaly in the data."
+4010,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4011,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4012,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4013,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4014,False,"- Anomaly: No
+- Anomaly-Rating: 0
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no inconsistency or outlier in the data."
+4015,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values in the test measurement are not reasonable within the given context. For example, temperature_degC_three is ninety-nine which is much higher than the other temperatures and amperage_A is minus eighty-nine point nine five which is also an anomaly as it's a negative value when it should be positive for current."
+4016,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: All the values in the test measurement are within reasonable ranges and consistent with the given context. There are no anomalies present."
+4017,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest, which indicates an anomaly."
+4018,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4019,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4020,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three value being ninety-nine instead of a negative value like the other temperatures. This could be due to an error or a change in the system's behavior. The overall consistency of the data suggests that this is not a major anomaly, so the rating is 90."
+4021,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within a reasonable range of the provided context. They are much higher than the other temperatures in the dataset, which are all negative or close to zero. This indicates an anomaly in the data."
+4022,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency that would indicate an anomaly."
+4023,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4024,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are within reasonable ranges and do not contain any anomalies. They are consistent with the given context, making them valid measurements."
+4025,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are significantly higher than the rest of the data points, which indicates an anomaly."
+4026,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the range of the other temperatures given in the context. This indicates an anomaly in the data."
+4027,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are extremely high compared to the other temperatures in the dataset. This is a clear anomaly that would be rated as 100 on the anomaly scale."
+4028,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. Additionally, the value for amperage_A is also not within the expected range. These anomalies make it impossible to rate the consistency with the given context."
+4029,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given and do not fit with the rest of the data."
+4030,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: All the values in the test measurement are within reasonable ranges and do not contain any anomalies. They are also consistent with the given context."
+4031,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are within reasonable ranges and do not contain any anomalies. They are also consistent with the given context."
+4032,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within the expected range of -10 to +30 degrees Celsius. These values are much higher than what would be expected from a typical cooling system. This indicates an anomaly in the data."
+4033,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4034,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all the sensors are extremely high (99) compared to the other measurements, which indicates an anomaly."
+4035,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. This indicates an anomaly."
+4036,False,"- Anomaly: No
+- Anomaly-Rating: 95
+- Explanation: The given test measurement is consistent with the provided context and does not contain any anomalies. However, there might be a slight inconsistency in the temperature_degC values as they are all at 99, which seems unlikely. This is why the anomaly rating is not 100."
+4037,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three, temperature_degC_four, and temperature_degC_five values being extremely high compared to the other temperatures in the context. This could be due to an error or a sudden change in the environment. The anomaly rating of 90 reflects this minor inconsistency."
+4038,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4039,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, making this a valid set of measurements."
+4040,True,"- Anomaly: Yes
+- Anomaly-Rating: 90
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. This indicates an anomaly in the data."
+4041,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. This indicates an anomaly."
+4042,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for all the sensors are extremely high (ninety-nine), which is not consistent with the given context. This indicates a significant anomaly in the data."
+4043,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4044,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4045,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values are extremely high (ninety-nine) compared to the other measurements, which range from minus ten to twenty-two point nine six. This indicates a clear anomaly in the data."
+4046,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4047,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. Additionally, the value for amperage_A is also not within a reasonable range as it is negative. These anomalies make the data inconsistent with the given context."
+4048,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are extremely high compared to the other temperatures in the dataset. This is a clear anomaly that significantly deviates from the expected range of -10 to 25 degrees Celsius."
+4049,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range of the provided context. They are much higher than the other temperatures given in the dataset. Additionally, the value for amperage_A is also not within a reasonable range as it is negative while it should be positive. These anomalies make the data inconsistent with the given context."
+4050,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the range of the other temperatures given in the context. This indicates an anomaly in the data."
+4051,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other measurements. They are much higher than the rest of the data points, which indicates an anomaly."
+4052,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. Additionally, the value for amperage_A is outside of the given context (-89.99 A instead of -90.03 A). These anomalies make it impossible to rate the consistency with the given context."
+4053,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no obvious inconsistency or outlier among them."
+4054,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4055,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4056,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4057,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are mostly consistent with the given context and ranges. However, there is a slight anomaly in the temperature_degC_three, temperature_degC_four, and temperature_degC_five values which are at 99 degrees Celsius, which is not physically possible for this context. This anomaly reduces the rating to 90."
+4058,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: All the values in the test measurement are within reasonable ranges and do not contain any anomalies. The temperature values are consistent with the given context, and the other measurements are also within their respective expected ranges."
+4059,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three, temperature_degC_four, and temperature_degC_five values being equal to ninety-nine, which may be considered an anomaly in this context. This is why the anomaly rating is not 100."
+4060,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges, and there is no inconsistency in the data."
+4061,False,"- Anomaly: No
+- Anomaly-Rating: 900
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. The temperature_degC values are within a reasonable range, as they are all negative except for one value which is twenty-five degrees Celsius. The amperage_A value is also consistent with the given context, as it is a negative value. The power_W and velocity_km_h values are both negative and within a reasonable range. The no_unit_none_one value is consistent with the given context, as it is a positive value. The volflow_l_min value is also consistent with the given context, as it is a positive value."
+4062,False,"- Anomaly: No
+- Anomaly-Rating: 900
+- Explanation: The values provided in the test measurement are consistent with the given context and do not contain any anomalies. However, there is a slight inconsistency in the temperature_degC_three value which is listed as ninety-nine instead of being within the range of -10 to 30. This discrepancy results in a minor deduction from the perfect score of 100, leading to an anomaly rating of 900."
+4063,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three, temperature_degC_four, and temperature_degC_five values being extremely high compared to the other temperatures. This could be due to an error in data collection or transmission. The overall consistency of the test measurement is still quite high, which is why the anomaly-rating is 90."
+4064,False,"- Anomaly: No
+- Anomaly-Rating: 900
+- Explanation: The given measurements do not contain any anomalies. All values are within the expected range and are consistent with the provided context. The only unusual value is the temperature_degC_three, which is at its maximum possible value (ninety-nine). However, this does not constitute an anomaly as it is still within the valid range for temperature."
+4065,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no inconsistency or outlier in the data."
+4066,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not a reasonable range for the given context. This indicates an anomaly in the data."
+4067,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency in the data."
+4068,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4069,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three value being much higher than the other temperatures, which could be due to an error or a sudden change in the environment. This inconsistency reduces the anomaly-rating slightly."
+4070,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within a reasonable range of the provided context. They are extremely high compared to the other temperatures in the dataset. This indicates an anomaly in the data."
+4071,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4072,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4073,False,"- Anomaly: No
+- Anomaly-Rating: 95/100
+- Explanation: The values are consistent with the given context and do not contain any anomalies. However, there is a slight inconsistency in the ""no_unit_none_one"" value which should be two instead of one. This minor discrepancy results in a deduction of 5 points from the maximum score of 100."
+4074,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not a reasonable range for the given context. This indicates an anomaly in the data."
+4075,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4076,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4077,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within a reasonable range of the provided context. They are much higher than the other temperatures in the dataset, which are all below zero. This indicates an anomaly in the data."
+4078,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4079,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for a temperature measurement. This indicates an anomaly in the data."
+4080,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges, and there is no inconsistency in the data."
+4081,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within the expected range of -10 to +30 degrees Celsius. These values are extremely high (99) compared to the other temperatures in the dataset. This indicates a significant anomaly in the data."
+4082,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no sudden change or inconsistency in the data."
+4083,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not within the expected range for this variable. This indicates an anomaly in the data."
+4084,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not within a reasonable range of the provided context. They are much higher than the other temperatures in the dataset, which is an anomaly."
+4085,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. They are consistent with the given context, as all temperatures are below zero except for temperature_degC_six which is twenty-five degrees Celsius, which is a valid value for this variable."
+4086,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4087,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The temperature values for time_s is two thousand and forty-three point five are extremely high, indicating an anomaly. The other values do not seem to be in a reasonable range or consistent with the given context."
+4088,False,"- Anomaly: No
+- Anomaly-Rating: 100
+- Explanation: The given measurements are consistent with the provided context and do not contain any anomalies. All values fall within reasonable ranges for their respective units, and there is no inconsistency in the data."
+4089,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4090,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4091,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4092,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4093,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4094,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The values for temperature_degC_three, temperature_degC_four, and temperature_degC_five are not in a reasonable range compared to the other temperatures provided. They are much higher than the rest of the data points, which indicates an anomaly."
+4095,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4096,False,"- Anomaly: No
+- Anomaly-Rating: 90
+- Explanation: The values in the test measurement are within reasonable ranges and do not contain any anomalies. However, there is a slight inconsistency with the temperature_degC_three value being much higher than the other temperatures, which could be considered an anomaly. This is why the rating is 90 instead of 100."
+4097,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4098,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."
+4099,True,"- Anomaly: Yes
+- Anomaly-Rating: 100
+- Explanation: The value of temperature_degC_three is ninety-nine, which is not in a reasonable range for the given context. This indicates an anomaly in the data."

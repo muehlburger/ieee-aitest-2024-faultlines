@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "FaultLines - Evaluating the Efficacy of Open-Source Large Language Models for Fault Detection in Cyber-Physical Systems"
+authors:
+  - family-names: Mühlburger
+    given-names: Herbert
+    affiliation: "Graz University of Technology"
+    orcid: "https://orcid.org/0000-0002-7672-0501"
+  - family-names: Wotawa
+    given-names: Franz
+    affiliation: "Graz University of Technology"
+    orcid: "https://orcid.org/0000-0002-0462-2283"
+license: Apache-2.0
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Mühlburger
+      given-names: Herbert
+    - family-names: Wotawa
+      given-names: Franz
+  title: "FaultLines - Evaluating the Efficacy of Open-Source Large Language Models for Fault Detection in Cyber-Physical Systems"
+  collection-title: "2024 IEEE International Conference on Artificial Intelligence Testing (AITest)"
+  year: 2024
+  start: 47
+  end: 54
+  doi: 10.1109/AITest62860.2024.00014
