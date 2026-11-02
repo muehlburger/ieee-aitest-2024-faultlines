@@ -1,5 +1,7 @@
 # FaultLines
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23890440.svg)](https://doi.org/10.5281/zenodo.23890440)
+
 Code, data, and results for the paper *FaultLines - Evaluating the Efficacy of Open-Source Large Language Models for Fault Detection in Cyber-Physical Systems* (H. Mühlburger and F. Wotawa, IEEE AITest 2024, pp. 47-54, [doi:10.1109/AITest62860.2024.00014](https://doi.org/10.1109/AITest62860.2024.00014)).
 
 Open-weight language models judge sensor rows of a simulated battery system. Each test row is compared with the ten most similar normal rows retrieved from a vector store. No model is trained or fine-tuned, and no labeled faults are used.
